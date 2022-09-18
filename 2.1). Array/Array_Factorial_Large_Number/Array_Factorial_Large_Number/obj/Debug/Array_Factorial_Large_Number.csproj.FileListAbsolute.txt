@@ -1,0 +1,7 @@
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Factorial_Large_Number\Array_Factorial_Large_Number\bin\Debug\Array_Factorial_Large_Number.exe.config
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Factorial_Large_Number\Array_Factorial_Large_Number\bin\Debug\Array_Factorial_Large_Number.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Factorial_Large_Number\Array_Factorial_Large_Number\bin\Debug\Array_Factorial_Large_Number.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Factorial_Large_Number\Array_Factorial_Large_Number\obj\Debug\Array_Factorial_Large_Number.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Factorial_Large_Number\Array_Factorial_Large_Number\obj\Debug\Array_Factorial_Large_Number.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Factorial_Large_Number\Array_Factorial_Large_Number\obj\Debug\Array_Factorial_Large_Number.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Factorial_Large_Number\Array_Factorial_Large_Number\obj\Debug\Array_Factorial_Large_Number.pdb

@@ -1,0 +1,7 @@
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_NXN_Search_In_Sorted\Matrix_NXN_Search_In_Sorted\bin\Debug\Matrix_NXN_Search_In_Sorted.exe.config
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_NXN_Search_In_Sorted\Matrix_NXN_Search_In_Sorted\bin\Debug\Matrix_NXN_Search_In_Sorted.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_NXN_Search_In_Sorted\Matrix_NXN_Search_In_Sorted\bin\Debug\Matrix_NXN_Search_In_Sorted.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_NXN_Search_In_Sorted\Matrix_NXN_Search_In_Sorted\obj\Debug\Matrix_NXN_Search_In_Sorted.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_NXN_Search_In_Sorted\Matrix_NXN_Search_In_Sorted\obj\Debug\Matrix_NXN_Search_In_Sorted.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_NXN_Search_In_Sorted\Matrix_NXN_Search_In_Sorted\obj\Debug\Matrix_NXN_Search_In_Sorted.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_NXN_Search_In_Sorted\Matrix_NXN_Search_In_Sorted\obj\Debug\Matrix_NXN_Search_In_Sorted.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32510.428
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubArray_Given_Sum_PosNeg", "SubArray_Given_Sum_PosNeg\SubArray_Given_Sum_PosNeg.csproj", "{0D778C7C-CD48-4CE6-B6C9-6462AC1E6E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D778C7C-CD48-4CE6-B6C9-6462AC1E6E87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D778C7C-CD48-4CE6-B6C9-6462AC1E6E87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D778C7C-CD48-4CE6-B6C9-6462AC1E6E87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D778C7C-CD48-4CE6-B6C9-6462AC1E6E87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8260B0E6-6BE5-4AEA-8FE7-14E7E437CF32}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_i_Array_j_Rearrange\Array_i_Array_j_Rearrange\bin\Debug\Array_i_Array_j_Rearrange.exe.config
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_i_Array_j_Rearrange\Array_i_Array_j_Rearrange\bin\Debug\Array_i_Array_j_Rearrange.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_i_Array_j_Rearrange\Array_i_Array_j_Rearrange\bin\Debug\Array_i_Array_j_Rearrange.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_i_Array_j_Rearrange\Array_i_Array_j_Rearrange\obj\Debug\Array_i_Array_j_Rearrange.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_i_Array_j_Rearrange\Array_i_Array_j_Rearrange\obj\Debug\Array_i_Array_j_Rearrange.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_i_Array_j_Rearrange\Array_i_Array_j_Rearrange\obj\Debug\Array_i_Array_j_Rearrange.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_i_Array_j_Rearrange\Array_i_Array_j_Rearrange\obj\Debug\Array_i_Array_j_Rearrange.pdb

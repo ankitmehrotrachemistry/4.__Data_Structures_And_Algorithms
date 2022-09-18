@@ -1,0 +1,14 @@
+F:\ME\_4). C# , MVC and .NET\1). Practising Code\Compiled and Runned in Visual Studio\knapsack2\knapsack2\bin\Debug\knapsack2.exe.config
+F:\ME\_4). C# , MVC and .NET\1). Practising Code\Compiled and Runned in Visual Studio\knapsack2\knapsack2\bin\Debug\knapsack2.exe
+F:\ME\_4). C# , MVC and .NET\1). Practising Code\Compiled and Runned in Visual Studio\knapsack2\knapsack2\bin\Debug\knapsack2.pdb
+F:\ME\_4). C# , MVC and .NET\1). Practising Code\Compiled and Runned in Visual Studio\knapsack2\knapsack2\obj\Debug\knapsack2.csprojAssemblyReference.cache
+F:\ME\_4). C# , MVC and .NET\1). Practising Code\Compiled and Runned in Visual Studio\knapsack2\knapsack2\obj\Debug\knapsack2.csproj.CoreCompileInputs.cache
+F:\ME\_4). C# , MVC and .NET\1). Practising Code\Compiled and Runned in Visual Studio\knapsack2\knapsack2\obj\Debug\knapsack2.exe
+F:\ME\_4). C# , MVC and .NET\1). Practising Code\Compiled and Runned in Visual Studio\knapsack2\knapsack2\obj\Debug\knapsack2.pdb
+F:\Programming & Computer Engineering\_3). C# , .NET & SQL\2). Practising Code\_Hands-On Practice\knapsack2\knapsack2\bin\Debug\knapsack2.exe.config
+F:\Programming & Computer Engineering\_3). C# , .NET & SQL\2). Practising Code\_Hands-On Practice\knapsack2\knapsack2\bin\Debug\knapsack2.exe
+F:\Programming & Computer Engineering\_3). C# , .NET & SQL\2). Practising Code\_Hands-On Practice\knapsack2\knapsack2\bin\Debug\knapsack2.pdb
+F:\Programming & Computer Engineering\_3). C# , .NET & SQL\2). Practising Code\_Hands-On Practice\knapsack2\knapsack2\obj\Debug\knapsack2.csprojAssemblyReference.cache
+F:\Programming & Computer Engineering\_3). C# , .NET & SQL\2). Practising Code\_Hands-On Practice\knapsack2\knapsack2\obj\Debug\knapsack2.csproj.CoreCompileInputs.cache
+F:\Programming & Computer Engineering\_3). C# , .NET & SQL\2). Practising Code\_Hands-On Practice\knapsack2\knapsack2\obj\Debug\knapsack2.exe
+F:\Programming & Computer Engineering\_3). C# , .NET & SQL\2). Practising Code\_Hands-On Practice\knapsack2\knapsack2\obj\Debug\knapsack2.pdb

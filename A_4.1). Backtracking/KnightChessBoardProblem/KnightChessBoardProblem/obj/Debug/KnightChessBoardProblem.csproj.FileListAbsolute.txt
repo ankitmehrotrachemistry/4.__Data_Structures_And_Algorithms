@@ -1,0 +1,7 @@
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\KnightChessBoardProblem\KnightChessBoardProblem\bin\Debug\KnightChessBoardProblem.exe.config
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\KnightChessBoardProblem\KnightChessBoardProblem\bin\Debug\KnightChessBoardProblem.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\KnightChessBoardProblem\KnightChessBoardProblem\bin\Debug\KnightChessBoardProblem.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\KnightChessBoardProblem\KnightChessBoardProblem\obj\Debug\KnightChessBoardProblem.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\KnightChessBoardProblem\KnightChessBoardProblem\obj\Debug\KnightChessBoardProblem.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\KnightChessBoardProblem\KnightChessBoardProblem\obj\Debug\KnightChessBoardProblem.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\KnightChessBoardProblem\KnightChessBoardProblem\obj\Debug\KnightChessBoardProblem.pdb

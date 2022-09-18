@@ -1,0 +1,13 @@
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\bin\Debug\netcoreapp3.1\StackReversal.exe
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\bin\Debug\netcoreapp3.1\StackReversal.deps.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\bin\Debug\netcoreapp3.1\StackReversal.runtimeconfig.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\bin\Debug\netcoreapp3.1\StackReversal.runtimeconfig.dev.json
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\bin\Debug\netcoreapp3.1\StackReversal.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\bin\Debug\netcoreapp3.1\StackReversal.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\obj\Debug\netcoreapp3.1\StackReversal.csprojAssemblyReference.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\obj\Debug\netcoreapp3.1\StackReversal.AssemblyInfoInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\obj\Debug\netcoreapp3.1\StackReversal.AssemblyInfo.cs
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\obj\Debug\netcoreapp3.1\StackReversal.csproj.CoreCompileInputs.cache
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\obj\Debug\netcoreapp3.1\StackReversal.dll
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\obj\Debug\netcoreapp3.1\StackReversal.pdb
+F:\1). Unity3D , C#  for Competitive Programming\C# Programming\StackReversal\obj\Debug\netcoreapp3.1\StackReversal.genruntimeconfig.cache

@@ -1,0 +1,21 @@
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\MatrixKnightMoves\MatrixKnightMoves\bin\Debug\MatrixKnightMoves.exe.config
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\MatrixKnightMoves\MatrixKnightMoves\bin\Debug\MatrixKnightMoves.exe
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\MatrixKnightMoves\MatrixKnightMoves\bin\Debug\MatrixKnightMoves.pdb
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.csprojAssemblyReference.cache
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.csproj.CoreCompileInputs.cache
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.exe
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.pdb
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\MatrixKnightMoves\MatrixKnightMoves\bin\Debug\MatrixKnightMoves.exe.config
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\MatrixKnightMoves\MatrixKnightMoves\bin\Debug\MatrixKnightMoves.exe
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\MatrixKnightMoves\MatrixKnightMoves\bin\Debug\MatrixKnightMoves.pdb
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.csprojAssemblyReference.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.csproj.CoreCompileInputs.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.exe
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\MatrixKnightMoves\MatrixKnightMoves\bin\Debug\MatrixKnightMoves.exe.config
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\MatrixKnightMoves\MatrixKnightMoves\bin\Debug\MatrixKnightMoves.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\MatrixKnightMoves\MatrixKnightMoves\bin\Debug\MatrixKnightMoves.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\MatrixKnightMoves\MatrixKnightMoves\obj\Debug\MatrixKnightMoves.pdb

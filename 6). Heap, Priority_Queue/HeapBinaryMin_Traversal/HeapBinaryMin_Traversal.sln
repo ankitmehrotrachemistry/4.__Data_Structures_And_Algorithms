@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapBinaryMin_Traversal", "HeapBinaryMin_Traversal\HeapBinaryMin_Traversal.csproj", "{049A873F-4EA8-4A43-AF75-B4B3A0FC3BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{049A873F-4EA8-4A43-AF75-B4B3A0FC3BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{049A873F-4EA8-4A43-AF75-B4B3A0FC3BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{049A873F-4EA8-4A43-AF75-B4B3A0FC3BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{049A873F-4EA8-4A43-AF75-B4B3A0FC3BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63B8DD1C-DD30-4DB0-9865-0B7F5A0BEF34}
+	EndGlobalSection
+EndGlobal

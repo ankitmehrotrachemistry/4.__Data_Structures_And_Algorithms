@@ -1,0 +1,21 @@
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapMinimum\HeapMinimum\bin\Debug\HeapMinimum.exe.config
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapMinimum\HeapMinimum\bin\Debug\HeapMinimum.exe
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapMinimum\HeapMinimum\bin\Debug\HeapMinimum.pdb
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.csprojAssemblyReference.cache
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.csproj.CoreCompileInputs.cache
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.exe
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.pdb
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapMinimum\HeapMinimum\bin\Debug\HeapMinimum.exe.config
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapMinimum\HeapMinimum\bin\Debug\HeapMinimum.exe
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapMinimum\HeapMinimum\bin\Debug\HeapMinimum.pdb
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.csprojAssemblyReference.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.csproj.CoreCompileInputs.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.exe
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinimum\HeapMinimum\bin\Debug\HeapMinimum.exe.config
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinimum\HeapMinimum\bin\Debug\HeapMinimum.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinimum\HeapMinimum\bin\Debug\HeapMinimum.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinimum\HeapMinimum\obj\Debug\HeapMinimum.pdb

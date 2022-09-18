@@ -1,0 +1,7 @@
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Permutation_Of_Array\Recursion_Permutation_Of_Array\bin\Debug\Recursion_Permutation_Of_Array.exe.config
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Permutation_Of_Array\Recursion_Permutation_Of_Array\bin\Debug\Recursion_Permutation_Of_Array.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Permutation_Of_Array\Recursion_Permutation_Of_Array\bin\Debug\Recursion_Permutation_Of_Array.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Permutation_Of_Array\Recursion_Permutation_Of_Array\obj\Debug\Recursion_Permutation_Of_Array.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Permutation_Of_Array\Recursion_Permutation_Of_Array\obj\Debug\Recursion_Permutation_Of_Array.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Permutation_Of_Array\Recursion_Permutation_Of_Array\obj\Debug\Recursion_Permutation_Of_Array.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Permutation_Of_Array\Recursion_Permutation_Of_Array\obj\Debug\Recursion_Permutation_Of_Array.pdb

@@ -1,0 +1,7 @@
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryNew\HeapBinaryNew\bin\Debug\HeapBinaryNew.exe.config
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryNew\HeapBinaryNew\bin\Debug\HeapBinaryNew.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryNew\HeapBinaryNew\bin\Debug\HeapBinaryNew.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryNew\HeapBinaryNew\obj\Debug\HeapBinaryNew.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryNew\HeapBinaryNew\obj\Debug\HeapBinaryNew.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryNew\HeapBinaryNew\obj\Debug\HeapBinaryNew.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryNew\HeapBinaryNew\obj\Debug\HeapBinaryNew.pdb

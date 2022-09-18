@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeapBinaryMaxDeletion", "HeapBinaryMaxDeletion\HeapBinaryMaxDeletion.csproj", "{F1AEC46C-6BF3-4DF9-A117-864721635FA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1AEC46C-6BF3-4DF9-A117-864721635FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1AEC46C-6BF3-4DF9-A117-864721635FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1AEC46C-6BF3-4DF9-A117-864721635FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1AEC46C-6BF3-4DF9-A117-864721635FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56358C38-974E-4731-9DB6-67957A933011}
+	EndGlobalSection
+EndGlobal

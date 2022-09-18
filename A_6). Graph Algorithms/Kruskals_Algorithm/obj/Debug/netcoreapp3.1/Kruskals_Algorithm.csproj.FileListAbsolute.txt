@@ -1,0 +1,13 @@
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\bin\Debug\netcoreapp3.1\Kruskals_Algorithm.exe
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\bin\Debug\netcoreapp3.1\Kruskals_Algorithm.deps.json
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\bin\Debug\netcoreapp3.1\Kruskals_Algorithm.runtimeconfig.json
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\bin\Debug\netcoreapp3.1\Kruskals_Algorithm.runtimeconfig.dev.json
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\bin\Debug\netcoreapp3.1\Kruskals_Algorithm.dll
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\bin\Debug\netcoreapp3.1\Kruskals_Algorithm.pdb
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\obj\Debug\netcoreapp3.1\Kruskals_Algorithm.csprojAssemblyReference.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\obj\Debug\netcoreapp3.1\Kruskals_Algorithm.AssemblyInfoInputs.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\obj\Debug\netcoreapp3.1\Kruskals_Algorithm.AssemblyInfo.cs
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\obj\Debug\netcoreapp3.1\Kruskals_Algorithm.csproj.CoreCompileInputs.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\obj\Debug\netcoreapp3.1\Kruskals_Algorithm.dll
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\obj\Debug\netcoreapp3.1\Kruskals_Algorithm.pdb
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\Kruskals_Algorithm\obj\Debug\netcoreapp3.1\Kruskals_Algorithm.genruntimeconfig.cache

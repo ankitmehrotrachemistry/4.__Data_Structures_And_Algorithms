@@ -1,0 +1,7 @@
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBionomial\HeapBionomial\bin\Debug\HeapBionomial.exe.config
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBionomial\HeapBionomial\bin\Debug\HeapBionomial.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBionomial\HeapBionomial\bin\Debug\HeapBionomial.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBionomial\HeapBionomial\obj\Debug\HeapBionomial.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBionomial\HeapBionomial\obj\Debug\HeapBionomial.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBionomial\HeapBionomial\obj\Debug\HeapBionomial.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBionomial\HeapBionomial\obj\Debug\HeapBionomial.pdb

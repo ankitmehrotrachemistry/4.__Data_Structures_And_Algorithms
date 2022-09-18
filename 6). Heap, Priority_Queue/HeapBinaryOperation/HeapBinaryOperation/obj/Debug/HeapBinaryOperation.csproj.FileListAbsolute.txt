@@ -1,0 +1,21 @@
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapBinaryOperation\HeapBinaryOperation\bin\Debug\HeapBinaryOperation.exe.config
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapBinaryOperation\HeapBinaryOperation\bin\Debug\HeapBinaryOperation.exe
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapBinaryOperation\HeapBinaryOperation\bin\Debug\HeapBinaryOperation.pdb
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.csprojAssemblyReference.cache
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.csproj.CoreCompileInputs.cache
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.exe
+F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.pdb
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapBinaryOperation\HeapBinaryOperation\bin\Debug\HeapBinaryOperation.exe.config
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapBinaryOperation\HeapBinaryOperation\bin\Debug\HeapBinaryOperation.exe
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapBinaryOperation\HeapBinaryOperation\bin\Debug\HeapBinaryOperation.pdb
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.csprojAssemblyReference.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.csproj.CoreCompileInputs.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.exe
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\_Practising Code in C#\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryOperation\HeapBinaryOperation\bin\Debug\HeapBinaryOperation.exe.config
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryOperation\HeapBinaryOperation\bin\Debug\HeapBinaryOperation.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryOperation\HeapBinaryOperation\bin\Debug\HeapBinaryOperation.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryOperation\HeapBinaryOperation\obj\Debug\HeapBinaryOperation.pdb

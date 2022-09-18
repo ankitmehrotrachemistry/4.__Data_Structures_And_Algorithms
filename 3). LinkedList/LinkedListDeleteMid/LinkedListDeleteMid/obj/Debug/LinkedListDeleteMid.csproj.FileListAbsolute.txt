@@ -1,0 +1,7 @@
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\LinkedListDeleteMid\LinkedListDeleteMid\bin\Debug\LinkedListDeleteMid.exe.config
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\LinkedListDeleteMid\LinkedListDeleteMid\bin\Debug\LinkedListDeleteMid.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\LinkedListDeleteMid\LinkedListDeleteMid\bin\Debug\LinkedListDeleteMid.pdb
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\LinkedListDeleteMid\LinkedListDeleteMid\obj\Debug\LinkedListDeleteMid.csproj.AssemblyReference.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\LinkedListDeleteMid\LinkedListDeleteMid\obj\Debug\LinkedListDeleteMid.csproj.CoreCompileInputs.cache
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\LinkedListDeleteMid\LinkedListDeleteMid\obj\Debug\LinkedListDeleteMid.exe
+G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\LinkedListDeleteMid\LinkedListDeleteMid\obj\Debug\LinkedListDeleteMid.pdb

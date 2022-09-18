@@ -1,0 +1,13 @@
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\bin\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.exe
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\bin\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.deps.json
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\bin\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.runtimeconfig.json
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\bin\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.runtimeconfig.dev.json
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\bin\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.dll
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\bin\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.pdb
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\obj\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.csprojAssemblyReference.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\obj\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.AssemblyInfoInputs.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\obj\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.AssemblyInfo.cs
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\obj\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.csproj.CoreCompileInputs.cache
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\obj\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.dll
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\obj\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.pdb
+F:\2). Unity3D , C#  for Competitive Programming\C# Programming\PrimsMSTGreedyAlgorithm\obj\Debug\netcoreapp3.1\PrimsMSTGreedyAlgorithm.genruntimeconfig.cache
