@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Min_Max_Linear_Search\Array_Min_Max_Linear_Search\bin\Debug\Array_Min_Max_Linear_Search.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Min_Max_Linear_Search\Array_Min_Max_Linear_Search\bin\Debug\Array_Min_Max_Linear_Search.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Min_Max_Linear_Search\Array_Min_Max_Linear_Search\bin\Debug\Array_Min_Max_Linear_Search.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Min_Max_Linear_Search\Array_Min_Max_Linear_Search\obj\Debug\Array_Min_Max_Linear_Search.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Min_Max_Linear_Search\Array_Min_Max_Linear_Search\obj\Debug\Array_Min_Max_Linear_Search.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Min_Max_Linear_Search\Array_Min_Max_Linear_Search\obj\Debug\Array_Min_Max_Linear_Search.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Min_Max_Linear_Search\Array_Min_Max_Linear_Search\obj\Debug\Array_Min_Max_Linear_Search.pdb
