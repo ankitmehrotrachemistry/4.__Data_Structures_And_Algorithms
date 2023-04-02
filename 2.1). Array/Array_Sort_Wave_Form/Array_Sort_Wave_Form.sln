@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Array_Sort_Wave_Form", "Array_Sort_Wave_Form\Array_Sort_Wave_Form.csproj", "{41CFE146-C490-4E8A-9F77-10611FF3EBCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41CFE146-C490-4E8A-9F77-10611FF3EBCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41CFE146-C490-4E8A-9F77-10611FF3EBCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41CFE146-C490-4E8A-9F77-10611FF3EBCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41CFE146-C490-4E8A-9F77-10611FF3EBCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65E03D81-0AFE-4C09-9D31-94F5ABBDA01B}
+	EndGlobalSection
+EndGlobal
