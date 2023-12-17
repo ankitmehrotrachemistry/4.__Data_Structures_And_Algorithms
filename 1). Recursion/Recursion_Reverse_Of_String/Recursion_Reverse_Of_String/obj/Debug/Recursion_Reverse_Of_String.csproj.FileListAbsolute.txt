@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Reverse_Of_String\Recursion_Reverse_Of_String\bin\Debug\Recursion_Reverse_Of_String.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Reverse_Of_String\Recursion_Reverse_Of_String\bin\Debug\Recursion_Reverse_Of_String.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Reverse_Of_String\Recursion_Reverse_Of_String\bin\Debug\Recursion_Reverse_Of_String.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Reverse_Of_String\Recursion_Reverse_Of_String\obj\Debug\Recursion_Reverse_Of_String.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Reverse_Of_String\Recursion_Reverse_Of_String\obj\Debug\Recursion_Reverse_Of_String.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Reverse_Of_String\Recursion_Reverse_Of_String\obj\Debug\Recursion_Reverse_Of_String.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Reverse_Of_String\Recursion_Reverse_Of_String\obj\Debug\Recursion_Reverse_Of_String.pdb
