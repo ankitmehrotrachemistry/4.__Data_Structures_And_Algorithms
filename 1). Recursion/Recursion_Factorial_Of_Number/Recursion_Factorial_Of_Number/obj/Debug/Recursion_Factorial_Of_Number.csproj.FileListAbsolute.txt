@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Factorial_Of_Number\Recursion_Factorial_Of_Number\bin\Debug\Recursion_Factorial_Of_Number.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Factorial_Of_Number\Recursion_Factorial_Of_Number\bin\Debug\Recursion_Factorial_Of_Number.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Factorial_Of_Number\Recursion_Factorial_Of_Number\bin\Debug\Recursion_Factorial_Of_Number.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Factorial_Of_Number\Recursion_Factorial_Of_Number\obj\Debug\Recursion_Factorial_Of_Number.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Factorial_Of_Number\Recursion_Factorial_Of_Number\obj\Debug\Recursion_Factorial_Of_Number.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Factorial_Of_Number\Recursion_Factorial_Of_Number\obj\Debug\Recursion_Factorial_Of_Number.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Recursion_Factorial_Of_Number\Recursion_Factorial_Of_Number\obj\Debug\Recursion_Factorial_Of_Number.pdb
