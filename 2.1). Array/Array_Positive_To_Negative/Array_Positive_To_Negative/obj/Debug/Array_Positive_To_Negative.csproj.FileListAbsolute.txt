@@ -1,8 +1,0 @@
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Positive_To_Negative\Array_Positive_To_Negative\bin\Debug\Array_Positive_To_Negative.exe.config
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Positive_To_Negative\Array_Positive_To_Negative\bin\Debug\Array_Positive_To_Negative.exe
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Positive_To_Negative\Array_Positive_To_Negative\bin\Debug\Array_Positive_To_Negative.pdb
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Positive_To_Negative\Array_Positive_To_Negative\obj\Debug\Array_Positive_To_Negative.csproj.AssemblyReference.cache
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Positive_To_Negative\Array_Positive_To_Negative\obj\Debug\Array_Positive_To_Negative.csproj.SuggestedBindingRedirects.cache
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Positive_To_Negative\Array_Positive_To_Negative\obj\Debug\Array_Positive_To_Negative.csproj.CoreCompileInputs.cache
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Positive_To_Negative\Array_Positive_To_Negative\obj\Debug\Array_Positive_To_Negative.exe
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Positive_To_Negative\Array_Positive_To_Negative\obj\Debug\Array_Positive_To_Negative.pdb
