@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Triplet_Sum\Array_Triplet_Sum\bin\Debug\Array_Triplet_Sum.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Triplet_Sum\Array_Triplet_Sum\bin\Debug\Array_Triplet_Sum.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Triplet_Sum\Array_Triplet_Sum\bin\Debug\Array_Triplet_Sum.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Triplet_Sum\Array_Triplet_Sum\obj\Debug\Array_Triplet_Sum.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Triplet_Sum\Array_Triplet_Sum\obj\Debug\Array_Triplet_Sum.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Triplet_Sum\Array_Triplet_Sum\obj\Debug\Array_Triplet_Sum.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Triplet_Sum\Array_Triplet_Sum\obj\Debug\Array_Triplet_Sum.pdb
