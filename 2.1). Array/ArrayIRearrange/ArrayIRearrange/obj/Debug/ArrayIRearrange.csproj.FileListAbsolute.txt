@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\ArrayIRearrange\ArrayIRearrange\bin\Debug\ArrayIRearrange.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\ArrayIRearrange\ArrayIRearrange\bin\Debug\ArrayIRearrange.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\ArrayIRearrange\ArrayIRearrange\bin\Debug\ArrayIRearrange.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\ArrayIRearrange\ArrayIRearrange\obj\Debug\ArrayIRearrange.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\ArrayIRearrange\ArrayIRearrange\obj\Debug\ArrayIRearrange.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\ArrayIRearrange\ArrayIRearrange\obj\Debug\ArrayIRearrange.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\ArrayIRearrange\ArrayIRearrange\obj\Debug\ArrayIRearrange.pdb
