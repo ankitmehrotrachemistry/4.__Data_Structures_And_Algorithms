@@ -1,8 +1,0 @@
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Sort_Wave_Form\Array_Sort_Wave_Form\bin\Debug\Array_Sort_Wave_Form.exe.config
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Sort_Wave_Form\Array_Sort_Wave_Form\bin\Debug\Array_Sort_Wave_Form.exe
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Sort_Wave_Form\Array_Sort_Wave_Form\bin\Debug\Array_Sort_Wave_Form.pdb
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Sort_Wave_Form\Array_Sort_Wave_Form\obj\Debug\Array_Sort_Wave_Form.csproj.AssemblyReference.cache
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Sort_Wave_Form\Array_Sort_Wave_Form\obj\Debug\Array_Sort_Wave_Form.csproj.SuggestedBindingRedirects.cache
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Sort_Wave_Form\Array_Sort_Wave_Form\obj\Debug\Array_Sort_Wave_Form.csproj.CoreCompileInputs.cache
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Sort_Wave_Form\Array_Sort_Wave_Form\obj\Debug\Array_Sort_Wave_Form.exe
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Sort_Wave_Form\Array_Sort_Wave_Form\obj\Debug\Array_Sort_Wave_Form.pdb
