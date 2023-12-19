@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMaximumElement\HeapMinMaximumElement\bin\Debug\HeapMinMaximumElement.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMaximumElement\HeapMinMaximumElement\bin\Debug\HeapMinMaximumElement.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMaximumElement\HeapMinMaximumElement\bin\Debug\HeapMinMaximumElement.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMaximumElement\HeapMinMaximumElement\obj\Debug\HeapMinMaximumElement.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMaximumElement\HeapMinMaximumElement\obj\Debug\HeapMinMaximumElement.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMaximumElement\HeapMinMaximumElement\obj\Debug\HeapMinMaximumElement.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMaximumElement\HeapMinMaximumElement\obj\Debug\HeapMinMaximumElement.pdb

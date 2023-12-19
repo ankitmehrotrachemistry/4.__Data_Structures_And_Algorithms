@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapTernaryMax\HeapTernaryMax\bin\Debug\HeapTernaryMax.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapTernaryMax\HeapTernaryMax\bin\Debug\HeapTernaryMax.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapTernaryMax\HeapTernaryMax\bin\Debug\HeapTernaryMax.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapTernaryMax\HeapTernaryMax\obj\Debug\HeapTernaryMax.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapTernaryMax\HeapTernaryMax\obj\Debug\HeapTernaryMax.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapTernaryMax\HeapTernaryMax\obj\Debug\HeapTernaryMax.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapTernaryMax\HeapTernaryMax\obj\Debug\HeapTernaryMax.pdb

@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinHeapToMaxHeap\HeapMinHeapToMaxHeap\bin\Debug\HeapMinHeapToMaxHeap.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinHeapToMaxHeap\HeapMinHeapToMaxHeap\bin\Debug\HeapMinHeapToMaxHeap.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinHeapToMaxHeap\HeapMinHeapToMaxHeap\bin\Debug\HeapMinHeapToMaxHeap.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinHeapToMaxHeap\HeapMinHeapToMaxHeap\obj\Debug\HeapMinHeapToMaxHeap.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinHeapToMaxHeap\HeapMinHeapToMaxHeap\obj\Debug\HeapMinHeapToMaxHeap.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinHeapToMaxHeap\HeapMinHeapToMaxHeap\obj\Debug\HeapMinHeapToMaxHeap.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinHeapToMaxHeap\HeapMinHeapToMaxHeap\obj\Debug\HeapMinHeapToMaxHeap.pdb

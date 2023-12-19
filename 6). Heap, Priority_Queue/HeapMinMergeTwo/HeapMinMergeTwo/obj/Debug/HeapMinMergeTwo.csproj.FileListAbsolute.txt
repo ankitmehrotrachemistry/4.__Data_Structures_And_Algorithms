@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMergeTwo\HeapMinMergeTwo\bin\Debug\HeapMinMergeTwo.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMergeTwo\HeapMinMergeTwo\bin\Debug\HeapMinMergeTwo.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMergeTwo\HeapMinMergeTwo\bin\Debug\HeapMinMergeTwo.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMergeTwo\HeapMinMergeTwo\obj\Debug\HeapMinMergeTwo.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMergeTwo\HeapMinMergeTwo\obj\Debug\HeapMinMergeTwo.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMergeTwo\HeapMinMergeTwo\obj\Debug\HeapMinMergeTwo.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapMinMergeTwo\HeapMinMergeTwo\obj\Debug\HeapMinMergeTwo.pdb
