@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapImplement_Array\HeapImplement_Array\bin\Debug\HeapImplement_Array.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapImplement_Array\HeapImplement_Array\bin\Debug\HeapImplement_Array.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapImplement_Array\HeapImplement_Array\bin\Debug\HeapImplement_Array.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapImplement_Array\HeapImplement_Array\obj\Debug\HeapImplement_Array.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapImplement_Array\HeapImplement_Array\obj\Debug\HeapImplement_Array.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapImplement_Array\HeapImplement_Array\obj\Debug\HeapImplement_Array.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapImplement_Array\HeapImplement_Array\obj\Debug\HeapImplement_Array.pdb

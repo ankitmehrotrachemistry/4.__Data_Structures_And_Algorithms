@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxDeletion\HeapBinaryMaxDeletion\bin\Debug\HeapBinaryMaxDeletion.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxDeletion\HeapBinaryMaxDeletion\bin\Debug\HeapBinaryMaxDeletion.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxDeletion\HeapBinaryMaxDeletion\bin\Debug\HeapBinaryMaxDeletion.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxDeletion\HeapBinaryMaxDeletion\obj\Debug\HeapBinaryMaxDeletion.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxDeletion\HeapBinaryMaxDeletion\obj\Debug\HeapBinaryMaxDeletion.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxDeletion\HeapBinaryMaxDeletion\obj\Debug\HeapBinaryMaxDeletion.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxDeletion\HeapBinaryMaxDeletion\obj\Debug\HeapBinaryMaxDeletion.pdb

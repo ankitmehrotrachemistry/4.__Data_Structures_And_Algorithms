@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxInsertion\HeapBinaryMaxInsertion\bin\Debug\HeapBinaryMaxInsertion.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxInsertion\HeapBinaryMaxInsertion\bin\Debug\HeapBinaryMaxInsertion.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxInsertion\HeapBinaryMaxInsertion\bin\Debug\HeapBinaryMaxInsertion.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxInsertion\HeapBinaryMaxInsertion\obj\Debug\HeapBinaryMaxInsertion.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxInsertion\HeapBinaryMaxInsertion\obj\Debug\HeapBinaryMaxInsertion.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxInsertion\HeapBinaryMaxInsertion\obj\Debug\HeapBinaryMaxInsertion.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\HeapBinaryMaxInsertion\HeapBinaryMaxInsertion\obj\Debug\HeapBinaryMaxInsertion.pdb

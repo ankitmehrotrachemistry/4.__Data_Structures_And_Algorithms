@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphCountPossiblePath", "GraphCountPossiblePath\GraphCountPossiblePath.csproj", "{9D3A7541-AF4D-4415-A8C9-7CE46305096A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D3A7541-AF4D-4415-A8C9-7CE46305096A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3A7541-AF4D-4415-A8C9-7CE46305096A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3A7541-AF4D-4415-A8C9-7CE46305096A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3A7541-AF4D-4415-A8C9-7CE46305096A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {806C6753-5DDD-420B-968D-87CC374487F6}
+	EndGlobalSection
+EndGlobal
