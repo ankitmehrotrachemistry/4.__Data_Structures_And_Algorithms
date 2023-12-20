@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Common_Elem_3_SortedArr\Array_Common_Elem_3_SortedArr\bin\Debug\Array_Common_Elem_3_SortedArr.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Common_Elem_3_SortedArr\Array_Common_Elem_3_SortedArr\bin\Debug\Array_Common_Elem_3_SortedArr.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Common_Elem_3_SortedArr\Array_Common_Elem_3_SortedArr\bin\Debug\Array_Common_Elem_3_SortedArr.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Common_Elem_3_SortedArr\Array_Common_Elem_3_SortedArr\obj\Debug\Array_Common_Elem_3_SortedArr.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Common_Elem_3_SortedArr\Array_Common_Elem_3_SortedArr\obj\Debug\Array_Common_Elem_3_SortedArr.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Common_Elem_3_SortedArr\Array_Common_Elem_3_SortedArr\obj\Debug\Array_Common_Elem_3_SortedArr.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Common_Elem_3_SortedArr\Array_Common_Elem_3_SortedArr\obj\Debug\Array_Common_Elem_3_SortedArr.pdb
