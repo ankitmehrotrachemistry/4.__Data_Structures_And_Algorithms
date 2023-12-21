@@ -1,6 +1,6 @@
 using System;
 
-namespace LinkedListAddRemoveHead
+namespace LinkedListAddHead_RemoveHead
 {
     public class LinkedList
     {
