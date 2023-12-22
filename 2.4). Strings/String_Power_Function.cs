@@ -1,3 +1,5 @@
+// https://www.youtube.com/watch?v=wAyrtLAeWvI&ab_channel=mycodeschool
+
 using System;
 
 namespace String_Power_Function
