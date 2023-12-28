@@ -1,0 +1,130 @@
+using System;
+using System.Collections.Generic;
+
+namespace Binary_Tree_LevelOrder_LineByLine
+{
+    class Program
+    {
+        public class Tree
+        {
+            private Node root;
+            private class Node
+            {
+                internal int value;
+                internal Node leftChild;
+                internal Node rightChild;
+
+                public Node(int value, Node leftChild, Node rightChild)
+                {
+                    this.value = value;
+                    this.leftChild = leftChild;
+                    this.rightChild = rightChild;
+                }
+
+                public Node(int value)
+                {
+                    this.value = value;
+                    leftChild = null;
+                    rightChild = null;
+                }
+            }
+            public Tree()
+            {
+                root = null;
+            }
+            public void CreateCompleteBinaryTree(int[] arr)
+            {
+                root = CreateCompleteBinaryTree(arr, 0);
+            }
+            private Node CreateCompleteBinaryTree(int[] arr, int start)
+            {
+                int size = arr.Length;
+                Node curr = new Node(arr[start]);
+
+                int left = 2 * start + 1;
+                int right = 2 * start + 2;
+
+                if (left < size)
+                {
+                    curr.leftChild = CreateCompleteBinaryTree(arr, left);
+                }
+                if (right < size)
+                {
+                    curr.rightChild = CreateCompleteBinaryTree(arr, right);
+                }
+                return curr;
+            }
+
+            public void PrintLevelOrderLineByLine()
+            {
+                Queue<Node> queue1 = new Queue<Node>();
+                Queue<Node> queue2 = new Queue<Node>();
+                Node temp = null;
+
+                if (root != null)
+                {
+                    queue1.Enqueue(root);
+                }
+
+                while(queue1.Count != 0 || queue2.Count != 0)
+                {
+                    while(queue1.Count != 0)
+                    {
+                        temp = queue1.Dequeue();
+                        Console.Write(temp.value + " ");
+
+                        if (temp.leftChild != null)
+                        {
+                            queue2.Enqueue(temp.leftChild);
+                        }
+                        if (temp.rightChild != null)
+                        {
+                            queue2.Enqueue(temp.rightChild);
+                        }
+                    }
+                    Console.WriteLine("");
+
+                    while (queue2.Count != 0)
+                    {
+                        temp = queue2.Dequeue();
+                        Console.Write(temp.value + " ");
+
+                        if (temp.leftChild != null)
+                        {
+                            queue1.Enqueue(temp.leftChild);
+                        }
+                        if (temp.rightChild != null)
+                        {
+                            queue1.Enqueue(temp.rightChild);
+                        }
+                    }
+                    Console.WriteLine("");
+                }
+            }
+
+        }
+        static void Main(string[] args)
+        {
+            Tree tree = new Tree();
+
+            int[] arr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+            Console.WriteLine("Level Order Line by Line Binary Tree Elements using Queue are : ");
+
+            tree.CreateCompleteBinaryTree(arr);
+
+            tree.PrintLevelOrderLineByLine();
+
+            Console.ReadKey();
+        }
+    }
+}
+
+/*
+OUTPUT
+Level Order Line by Line Binary Tree Elements using Queue are :
+1
+2 3
+4 5 6 7
+8 9 10
+*/
