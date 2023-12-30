@@ -2,7 +2,6 @@ using System;
 
 namespace Binary_Tree_Search_Value
 {
-    // A full node is a node that has both left and right child.
     class Program
     {
         public class Tree
