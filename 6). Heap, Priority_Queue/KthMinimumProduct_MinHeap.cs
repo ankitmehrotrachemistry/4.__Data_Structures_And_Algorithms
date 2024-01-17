@@ -1,6 +1,6 @@
 using System;
 
-namespace Heap_Product_K_Min_Elements_MinHeap
+namespace KthMinimumProduct_MinHeap
 {
     class Heap<T> where T : IComparable<T>
     {
@@ -15,17 +15,6 @@ namespace Heap_Product_K_Min_Elements_MinHeap
             size = 0;
             isMinHeap = isMin;
         }
-        public Heap(T[] array, bool isMin = true)
-        {
-            size = array.Length;
-            arr = array;
-            isMinHeap = isMin;
-
-            for (int i = (size / 2); i >= 0; i--)
-            {
-                PercolateDown(i);
-            }
-        }
         private bool Compare(T[] arr, int first, int second)
         {
             if (isMinHeap)
@@ -33,7 +22,6 @@ namespace Heap_Product_K_Min_Elements_MinHeap
             else
                 return arr[first].CompareTo(arr[second]) < 0;
         }
-
         private void PercolateDown(int parent)
         {
             int leftChild = 2 * parent + 1;
@@ -70,22 +58,6 @@ namespace Heap_Product_K_Min_Elements_MinHeap
                 PercolateUp(parent);
             }
         }
-        public bool isEmpty()
-        {
-            return (size == 0);
-        }
-        public int Size()
-        {
-            return size;
-        }
-        public T Peek()
-        {
-            if (size == 0)
-            {
-                throw new System.InvalidOperationException();
-            }
-            return arr[0];
-        }
         public void Enqueue(T value)
         {
             if (size == arr.Length)
@@ -116,33 +88,16 @@ namespace Heap_Product_K_Min_Elements_MinHeap
             PercolateDown(0);
             return value;
         }
-        public static void HeapSort(int[] array, bool inc)
-        {
-            Heap<int> heap = new Heap<int>(array, !inc);
-
-            for (int i = 0; i < array.Length; i++)
-            {
-                array[array.Length - i - 1] = heap.Dequeue();
-            }
-        }
-        public void Print()
-        {
-            for (int i = 0; i < size; i++)
-            {
-                Console.Write(arr[i] + " ");
-            }
-            Console.WriteLine();
-        }
     }
     class Program
     {
         public static int KSmallestProduct2(int[] arr, int size, int k)
         {
             Heap<int> heap = new Heap<int>();
-            
+
             int i = 0;
             int product = 1;
-            
+
             for (i = 0; i < size; i++)
             {
                 heap.Enqueue(arr[i]);
@@ -154,7 +109,7 @@ namespace Heap_Product_K_Min_Elements_MinHeap
                 product *= heap.Dequeue();
                 i += 1;
             }
-            
+
             return product;
         }
         static void Main(string[] args)
