@@ -35,7 +35,7 @@ namespace findMissingNumber_Array_HashSet
         {
             int[] first = new int[] { 1, 5, 4, 3, 2, 7, 8, 9 };
 
-            Console.Write("The missing number in Array using XOR is : ");
+            Console.Write("The missing number in Array using Hashset is : ");
 
             int missingNumber = findMissingNumber3(first, first.Length);
 
@@ -48,5 +48,5 @@ namespace findMissingNumber_Array_HashSet
 
 /*
 OUTPUT
-The missing number in Array using XOR is : 6
+The missing number in Array using Hashset is : 6
 */
