@@ -1,6 +1,6 @@
 using System;
 
-namespace minimumDiffPair_Two_Array
+namespace minimumDiffPair_Sorting_Two_Array
 {
     class Program
     {
