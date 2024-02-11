@@ -8,9 +8,12 @@
 
   • Computing Fibonacci numbers (using recursion)
 
+  • Nuts and Bolts Problem
+
+  • Closest Pair
+
   • Quick-hull
-
-
+    
 𝗘𝘅𝗮𝗺𝗽𝗹𝗲𝘀 𝗼𝗳 𝗱𝗲𝗰𝗿𝗲𝗮𝘀𝗲-𝗮𝗻𝗱-𝗰𝗼𝗻𝗾𝘂𝗲𝗿 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀:
 
   • Computing pow(a, n) by calculating pow(a, n/2) using recursion.
