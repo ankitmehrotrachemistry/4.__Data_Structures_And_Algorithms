@@ -1,5 +1,3 @@
-Divide And Conquer , Decrease and Conquer Algorithm Examples
-
 Examples of divide-and-conquer algorithms:
 
 • Merge-Sort algorithm (using recursion)
@@ -11,6 +9,7 @@ Examples of divide-and-conquer algorithms:
 • Computing Fibonacci numbers (using recursion)
 
 • Quick-hull
+
 
 Examples of decrease-and-conquer algorithms:
 
