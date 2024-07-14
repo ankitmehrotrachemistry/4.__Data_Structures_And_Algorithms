@@ -1,7 +1,0 @@
-G:\CharacterOccurence\CharacterOccurence\bin\Debug\CharacterOccurence.exe.config
-G:\CharacterOccurence\CharacterOccurence\bin\Debug\CharacterOccurence.exe
-G:\CharacterOccurence\CharacterOccurence\bin\Debug\CharacterOccurence.pdb
-G:\CharacterOccurence\CharacterOccurence\obj\Debug\CharacterOccurence.csproj.AssemblyReference.cache
-G:\CharacterOccurence\CharacterOccurence\obj\Debug\CharacterOccurence.csproj.CoreCompileInputs.cache
-G:\CharacterOccurence\CharacterOccurence\obj\Debug\CharacterOccurence.exe
-G:\CharacterOccurence\CharacterOccurence\obj\Debug\CharacterOccurence.pdb

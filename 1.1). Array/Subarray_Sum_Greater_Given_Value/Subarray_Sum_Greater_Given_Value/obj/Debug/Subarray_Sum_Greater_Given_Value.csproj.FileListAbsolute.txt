@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Subarray_Sum_Greater_Given_Value\Subarray_Sum_Greater_Given_Value\bin\Debug\Subarray_Sum_Greater_Given_Value.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Subarray_Sum_Greater_Given_Value\Subarray_Sum_Greater_Given_Value\bin\Debug\Subarray_Sum_Greater_Given_Value.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Subarray_Sum_Greater_Given_Value\Subarray_Sum_Greater_Given_Value\bin\Debug\Subarray_Sum_Greater_Given_Value.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Subarray_Sum_Greater_Given_Value\Subarray_Sum_Greater_Given_Value\obj\Debug\Subarray_Sum_Greater_Given_Value.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Subarray_Sum_Greater_Given_Value\Subarray_Sum_Greater_Given_Value\obj\Debug\Subarray_Sum_Greater_Given_Value.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Subarray_Sum_Greater_Given_Value\Subarray_Sum_Greater_Given_Value\obj\Debug\Subarray_Sum_Greater_Given_Value.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Subarray_Sum_Greater_Given_Value\Subarray_Sum_Greater_Given_Value\obj\Debug\Subarray_Sum_Greater_Given_Value.pdb

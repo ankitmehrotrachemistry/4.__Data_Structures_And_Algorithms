@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Permutation_Recursion\String_Permutation_Recursion\bin\Debug\String_Permutation_Recursion.exe.config
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Permutation_Recursion\String_Permutation_Recursion\bin\Debug\String_Permutation_Recursion.exe
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Permutation_Recursion\String_Permutation_Recursion\bin\Debug\String_Permutation_Recursion.pdb
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Permutation_Recursion\String_Permutation_Recursion\obj\Debug\String_Permutation_Recursion.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Permutation_Recursion\String_Permutation_Recursion\obj\Debug\String_Permutation_Recursion.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Permutation_Recursion\String_Permutation_Recursion\obj\Debug\String_Permutation_Recursion.exe
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Permutation_Recursion\String_Permutation_Recursion\obj\Debug\String_Permutation_Recursion.pdb

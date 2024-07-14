@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Rotation_k_Steps\Array_Rotation_k_Steps\bin\Debug\Array_Rotation_k_Steps.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Rotation_k_Steps\Array_Rotation_k_Steps\bin\Debug\Array_Rotation_k_Steps.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Rotation_k_Steps\Array_Rotation_k_Steps\bin\Debug\Array_Rotation_k_Steps.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Rotation_k_Steps\Array_Rotation_k_Steps\obj\Debug\Array_Rotation_k_Steps.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Rotation_k_Steps\Array_Rotation_k_Steps\obj\Debug\Array_Rotation_k_Steps.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Rotation_k_Steps\Array_Rotation_k_Steps\obj\Debug\Array_Rotation_k_Steps.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Array_Rotation_k_Steps\Array_Rotation_k_Steps\obj\Debug\Array_Rotation_k_Steps.pdb

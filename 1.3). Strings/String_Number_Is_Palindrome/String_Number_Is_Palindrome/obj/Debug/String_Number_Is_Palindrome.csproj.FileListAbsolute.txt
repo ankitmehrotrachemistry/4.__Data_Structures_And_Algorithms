@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Number_Is_Palindrome\String_Number_Is_Palindrome\bin\Debug\String_Number_Is_Palindrome.exe.config
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Number_Is_Palindrome\String_Number_Is_Palindrome\bin\Debug\String_Number_Is_Palindrome.exe
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Number_Is_Palindrome\String_Number_Is_Palindrome\bin\Debug\String_Number_Is_Palindrome.pdb
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Number_Is_Palindrome\String_Number_Is_Palindrome\obj\Debug\String_Number_Is_Palindrome.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Number_Is_Palindrome\String_Number_Is_Palindrome\obj\Debug\String_Number_Is_Palindrome.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Number_Is_Palindrome\String_Number_Is_Palindrome\obj\Debug\String_Number_Is_Palindrome.exe
-G:\1). DS , Algo C C# C++ Competitive\Practising DS Algorithms Problems in C#\String_Number_Is_Palindrome\String_Number_Is_Palindrome\obj\Debug\String_Number_Is_Palindrome.pdb

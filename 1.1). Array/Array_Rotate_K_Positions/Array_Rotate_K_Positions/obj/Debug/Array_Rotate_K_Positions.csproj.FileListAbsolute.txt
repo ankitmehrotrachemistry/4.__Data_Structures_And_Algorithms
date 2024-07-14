@@ -1,8 +1,0 @@
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Rotate_K_Positions\Array_Rotate_K_Positions\bin\Debug\Array_Rotate_K_Positions.exe.config
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Rotate_K_Positions\Array_Rotate_K_Positions\bin\Debug\Array_Rotate_K_Positions.exe
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Rotate_K_Positions\Array_Rotate_K_Positions\bin\Debug\Array_Rotate_K_Positions.pdb
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Rotate_K_Positions\Array_Rotate_K_Positions\obj\Debug\Array_Rotate_K_Positions.csproj.AssemblyReference.cache
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Rotate_K_Positions\Array_Rotate_K_Positions\obj\Debug\Array_Rotate_K_Positions.csproj.SuggestedBindingRedirects.cache
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Rotate_K_Positions\Array_Rotate_K_Positions\obj\Debug\Array_Rotate_K_Positions.csproj.CoreCompileInputs.cache
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Rotate_K_Positions\Array_Rotate_K_Positions\obj\Debug\Array_Rotate_K_Positions.exe
-C:\Users\AM107804\Desktop\1). C# Data Structures\2.1). Array\Array_Rotate_K_Positions\Array_Rotate_K_Positions\obj\Debug\Array_Rotate_K_Positions.pdb

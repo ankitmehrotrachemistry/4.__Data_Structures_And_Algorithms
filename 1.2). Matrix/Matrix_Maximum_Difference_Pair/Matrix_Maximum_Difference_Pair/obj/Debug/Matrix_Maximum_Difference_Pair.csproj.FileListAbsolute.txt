@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_Maximum_Difference_Pair\Matrix_Maximum_Difference_Pair\bin\Debug\Matrix_Maximum_Difference_Pair.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_Maximum_Difference_Pair\Matrix_Maximum_Difference_Pair\bin\Debug\Matrix_Maximum_Difference_Pair.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_Maximum_Difference_Pair\Matrix_Maximum_Difference_Pair\bin\Debug\Matrix_Maximum_Difference_Pair.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_Maximum_Difference_Pair\Matrix_Maximum_Difference_Pair\obj\Debug\Matrix_Maximum_Difference_Pair.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_Maximum_Difference_Pair\Matrix_Maximum_Difference_Pair\obj\Debug\Matrix_Maximum_Difference_Pair.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_Maximum_Difference_Pair\Matrix_Maximum_Difference_Pair\obj\Debug\Matrix_Maximum_Difference_Pair.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_Maximum_Difference_Pair\Matrix_Maximum_Difference_Pair\obj\Debug\Matrix_Maximum_Difference_Pair.pdb

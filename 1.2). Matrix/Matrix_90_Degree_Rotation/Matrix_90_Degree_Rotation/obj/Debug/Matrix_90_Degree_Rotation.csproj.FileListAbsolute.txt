@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_90_Degree_Rotation\Matrix_90_Degree_Rotation\bin\Debug\Matrix_90_Degree_Rotation.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_90_Degree_Rotation\Matrix_90_Degree_Rotation\bin\Debug\Matrix_90_Degree_Rotation.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_90_Degree_Rotation\Matrix_90_Degree_Rotation\bin\Debug\Matrix_90_Degree_Rotation.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_90_Degree_Rotation\Matrix_90_Degree_Rotation\obj\Debug\Matrix_90_Degree_Rotation.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_90_Degree_Rotation\Matrix_90_Degree_Rotation\obj\Debug\Matrix_90_Degree_Rotation.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_90_Degree_Rotation\Matrix_90_Degree_Rotation\obj\Debug\Matrix_90_Degree_Rotation.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\Matrix_90_Degree_Rotation\Matrix_90_Degree_Rotation\obj\Debug\Matrix_90_Degree_Rotation.pdb
