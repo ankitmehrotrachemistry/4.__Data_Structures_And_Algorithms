@@ -1,7 +1,0 @@
-F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\BinaryTreeInsertion\BinaryTreeInsertion\bin\Debug\BinaryTreeInsertion.exe.config
-F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\BinaryTreeInsertion\BinaryTreeInsertion\bin\Debug\BinaryTreeInsertion.exe
-F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\BinaryTreeInsertion\BinaryTreeInsertion\bin\Debug\BinaryTreeInsertion.pdb
-F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\BinaryTreeInsertion\BinaryTreeInsertion\obj\Debug\BinaryTreeInsertion.csprojAssemblyReference.cache
-F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\BinaryTreeInsertion\BinaryTreeInsertion\obj\Debug\BinaryTreeInsertion.csproj.CoreCompileInputs.cache
-F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\BinaryTreeInsertion\BinaryTreeInsertion\obj\Debug\BinaryTreeInsertion.exe
-F:\Programming & Computer Engineering\_4). Data Structures , Algo (C++ & C#)\2). Practising Code\BinaryTreeInsertion\BinaryTreeInsertion\obj\Debug\BinaryTreeInsertion.pdb

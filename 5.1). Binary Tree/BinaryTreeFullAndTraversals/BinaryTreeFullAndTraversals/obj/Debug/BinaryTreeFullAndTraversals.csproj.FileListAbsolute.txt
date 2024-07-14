@@ -1,7 +1,0 @@
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\BinaryTreeFullAndTraversals\BinaryTreeFullAndTraversals\bin\Debug\BinaryTreeFullAndTraversals.exe.config
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\BinaryTreeFullAndTraversals\BinaryTreeFullAndTraversals\bin\Debug\BinaryTreeFullAndTraversals.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\BinaryTreeFullAndTraversals\BinaryTreeFullAndTraversals\bin\Debug\BinaryTreeFullAndTraversals.pdb
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\BinaryTreeFullAndTraversals\BinaryTreeFullAndTraversals\obj\Debug\BinaryTreeFullAndTraversals.csproj.AssemblyReference.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\BinaryTreeFullAndTraversals\BinaryTreeFullAndTraversals\obj\Debug\BinaryTreeFullAndTraversals.csproj.CoreCompileInputs.cache
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\BinaryTreeFullAndTraversals\BinaryTreeFullAndTraversals\obj\Debug\BinaryTreeFullAndTraversals.exe
-G:\1). DS , Algo C C# C++ Competitive Programming\Practising DS Algorithms Problems in C#\BinaryTreeFullAndTraversals\BinaryTreeFullAndTraversals\obj\Debug\BinaryTreeFullAndTraversals.pdb
