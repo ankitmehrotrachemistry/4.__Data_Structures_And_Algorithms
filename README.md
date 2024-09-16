@@ -49,7 +49,7 @@ public class GfG {
 ```
 
 **1.2 Remove duplicates from an array.** 
-[leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)
+[Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) , 
 [geeksforgeeks](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/)
 
 ```csharp
