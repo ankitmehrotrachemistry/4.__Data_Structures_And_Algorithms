@@ -99,11 +99,248 @@ class GfG {
 ```
 
 1.3 Count the frequency of an element in an array
-Text guide (GeeksforGeeks)
+[GeeksforGeeks](https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/)
+
+**Simple Solution**  
+```csharp
+// C# program to count frequencies of array items
+using System;
+ 
+class GFG
+{
+    public static void countFreq(int []arr, int n)
+    {
+        bool []visited = new bool[n];
+     
+        // Traverse through array elements and
+        // count frequencies
+        for (int i = 0; i < n; i++)
+        {
+     
+            // Skip this element if already processed
+            if (visited[i] == true)
+                continue;
+     
+            // Count frequency
+            int count = 1;
+            for (int j = i + 1; j < n; j++) 
+            {
+                if (arr[i] == arr[j]) 
+                {
+                    visited[j] = true;
+                    count++;
+                }
+            }
+            Console.WriteLine(arr[i] + " " + count);
+        }
+    }
+     
+    // Driver code
+    public static void Main(String []args)
+    {
+        int []arr = new int[]{ 10, 20, 20, 10, 10, 20, 5, 20 };
+        int n = arr.Length;
+        countFreq(arr, n);
+    }
+}
+```
+
+**Hashing**  
+
+```csharp
+// C# implementation of the approach
+using System;
+using System.Collections.Generic; 
+ 
+class GFG
+{
+ 
+    static void countFreq(int []arr, int n)
+    {
+        Dictionary<int, int> mp = new Dictionary<int,int>();
+ 
+        // Traverse through array elements and
+        // count frequencies
+        for (int i = 0; i < n; i++)
+        {
+            if (mp.ContainsKey(arr[i])) 
+            {
+                var val = mp[arr[i]];
+                mp.Remove(arr[i]);
+                mp.Add(arr[i], val + 1); 
+            } 
+            else
+            {
+                mp.Add(arr[i], 1);
+            }
+        }
+         
+        // Traverse through map and print frequencies
+        foreach(KeyValuePair<int, int> entry in mp)
+        {
+            Console.WriteLine(entry.Key + " " + entry.Value);
+        }
+    }
+ 
+    // Driver code
+    public static void Main(String []args) 
+    {
+        int []arr = {10, 20, 20, 10, 10, 20, 5, 20};
+        int n = arr.Length;
+        countFreq(arr, n);
+    }
+}
+```
 
 
 1.4 Two sum
-Text guide (Codeburst)
+[geeksforgeeks]([Codeburst](https://www.geeksforgeeks.org/check-if-pair-with-given-sum-exists-in-array/))
+
+**Sorting and Binary Search**
+```csharp
+using System;
+
+class GfG {
+
+    // Function to perform binary search
+    static bool BinarySearch(int[] arr, int left, int right,
+                             int target){
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (arr[mid] == target)
+                return true;
+            if (arr[mid] < target)
+                left = mid + 1;
+            else
+                right = mid - 1;
+        }
+        return false;
+    }
+
+    // Function to check whether any pair exists
+    // whose sum is equal to the given target value
+    static bool TwoSum(int[] arr, int target){
+        // Sort the array
+        Array.Sort(arr);
+
+        // Iterate through each element in the array
+        for (int i = 0; i < arr.Length; i++) {
+            int complement = target - arr[i];
+
+            // Use binary search to find the complement
+            if (BinarySearch(arr, i + 1, arr.Length - 1,
+                             complement))
+                return true;
+        }
+        // If no pair is found
+        return false;
+    }
+
+    static void Main(){
+        int[] arr = { 0, -1, 2, -3, 1 };
+        int target = -2;
+
+        // Call the TwoSum function and print the result
+        if (TwoSum(arr, target)) {
+            Console.WriteLine("true");
+        }
+        else {
+            Console.WriteLine("false");
+        }
+    }
+}
+```
+
+**Sorting and Two-Pointer Technique**
+```csharp
+using System;
+using System.Linq;
+
+class GfG {
+
+    // Function to check whether any pair exists
+    // whose sum is equal to the given target value
+    static bool TwoSum(int[] arr, int target){
+      
+        // Sort the array
+        Array.Sort(arr);
+
+        int left = 0, right = arr.Length - 1;
+
+        // Iterate while left pointer is less than right
+        while (left < right) {
+            int sum = arr[left] + arr[right];
+
+            // Check if the sum matches the target
+            if (sum == target)
+                return true;
+            else if (sum < target)
+                left++; // Move left pointer to the right
+            else
+                right--; // Move right pointer to the left
+        }
+        // If no pair is found
+        return false;
+    }
+
+    static void Main(){
+        int[] arr = { 0, -1, 2, -3, 1 };
+        int target = -2;
+
+        // Call the TwoSum function and print the result
+        if (TwoSum(arr, target))
+            Console.WriteLine("true");
+        else 
+            Console.WriteLine("false");
+    }
+}
+```
+
+**Hash Set**
+```csharp
+using System;
+using System.Collections.Generic;
+
+class GfG {
+
+    // Function to check whether any pair exists
+    // whose sum is equal to the given target value
+    static bool TwoSum(int[] arr, int target){
+
+        // Create a HashSet to store the elements
+        HashSet<int> set = new HashSet<int>();
+
+        // Iterate through each element in the array
+        for (int i = 0; i < arr.Length; i++) {
+
+            // Calculate the complement that added to
+            // arr[i], equals the target
+            int complement = target - arr[i];
+
+            // Check if the complement exists in the set
+            if (set.Contains(complement))
+                return true;
+
+            // Add the current element to the set
+            set.Add(arr[i]);
+        }
+        // If no pair is found
+        return false;
+    }
+
+    static void Main(){
+        int[] arr = { 0, -1, 2, -3, 1 };
+        int target = -2;
+
+        // Call the TwoSum function and print the result
+        if (TwoSum(arr, target))
+            Console.WriteLine("true");
+        else 
+            Console.WriteLine("false"); 
+    }
+}
+```
 
 
 1.5 Find the minimum (or maximum) element of an array
