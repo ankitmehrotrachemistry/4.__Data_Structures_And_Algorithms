@@ -7,6 +7,8 @@
 
 
 
+
+## Problems will come on these topics also
 ### Sorting
 ### Searching
 ### Two Pointers
