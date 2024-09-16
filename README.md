@@ -3,7 +3,7 @@
 ## 1). Arrays
 ### Easy
 1.1 Merge two sorted arrays 
-Text guide (GeeksforGeeks)
+[GeeksforGeeks](https://www.geeksforgeeks.org/merge-two-sorted-arrays/)
 
 ```csharp
 using System;
