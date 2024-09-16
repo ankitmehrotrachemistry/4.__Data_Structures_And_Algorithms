@@ -2,7 +2,7 @@
 
 ## 1). Arrays
 ### Easy
-1.1 Merge two sorted arrays 
+**1.1 Merge two sorted arrays.** 
 [GeeksforGeeks](https://www.geeksforgeeks.org/merge-two-sorted-arrays/)
 
 ```csharp
