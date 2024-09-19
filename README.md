@@ -348,9 +348,81 @@ class GfG {
 Text guide (Enjoy Algorithms)
 
 
-1.6 Remove duplicates from sorted array
-Text guide (Redquark)
+### 1.6 Remove duplicates from sorted array
+**Brute Force (HashSet)**
 
+```csharp
+using System;
+using System.Collections.Generic;
+
+public class MainClass
+{
+    public static void Main(string[] args)
+    {
+        int[] arr = { 1, 1, 2, 2, 2, 3, 3 };
+        int k = RemoveDuplicates(arr);
+        Console.WriteLine("The array after removing duplicate elements is:");
+        for (int i = 0; i < k; i++)
+        {
+            Console.Write(arr[i] + " ");
+        }
+    }
+
+    static int RemoveDuplicates(int[] arr)
+    {
+        HashSet<int> set = new HashSet<int>();
+        for (int i = 0; i < arr.Length; i++)
+        {
+            set.Add(arr[i]);
+        }
+
+        int k = set.Count;
+        int j = 0;
+        foreach (int x in set)
+        {
+            arr[j++] = x;
+        }
+        return k;
+    }
+}
+```
+
+**Two pointers**
+ We can think of using two pointers ‘i’ and ‘j’, we move ‘j’ till we don't get a number arr[j] which is different from arr[i]. As we got a unique number we will increase the i pointer and update its value by arr[j]. 
+
+![image](https://github.com/user-attachments/assets/29acbe65-9032-4487-b513-12a2d4871957)
+
+```csharp
+using System;
+
+public class MainClass
+{
+    public static void Main(string[] args)
+    {
+        int[] arr = { 1, 1, 2, 2, 2, 3, 3 };
+        int k = RemoveDuplicates(arr);
+        Console.WriteLine("The array after removing duplicate elements is:");
+        for (int i = 0; i < k; i++)
+        {
+            Console.Write(arr[i] + " ");
+        }
+    }
+
+    static int RemoveDuplicates(int[] arr)
+    {
+        int i = 0;
+        for (int j = 1; j < arr.Length; j++)
+        {
+            if (arr[i] != arr[j])
+            {
+                i++;
+                arr[i] = arr[j];
+            }
+        }
+        return i + 1;
+    }
+}
+```
 
 1.7 Remove element in-place
 Text guide (Redquark)
