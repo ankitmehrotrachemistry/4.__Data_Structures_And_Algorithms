@@ -391,7 +391,7 @@ public class MainClass
  We can think of using two pointers ‘i’ and ‘j’, we move ‘j’ till we don't get a number arr[j] which is different from arr[i]. As we got a unique number we will increase the i pointer and update its value by arr[j]. 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/29acbe65-9032-4487-b513-12a2d4871957" width="400" height="250" />
+  <img src="https://github.com/user-attachments/assets/29acbe65-9032-4487-b513-12a2d4871957" width="600" height="450" />
 </p>
 
 ```csharp
