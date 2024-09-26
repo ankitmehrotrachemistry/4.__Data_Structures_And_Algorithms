@@ -1,6 +1,13 @@
 # Questions on Arrays and Strings
 
 ## 1). Arrays
+
+| Arrays Questions | 
+|----------|
+| Surprisingly, abstract classes can have both abstract and non-abstract methods. | 
+| Since abstract classes can have both abstract and non-abstract methods, we need to use the Abstract keyword to declare abstract methods. | 
+| An abstract class has constructors. |
+
 ### Easy
 
 ### 1.1 Merge two sorted arrays.
