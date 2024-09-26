@@ -18,10 +18,14 @@
 |          |
 |  [Link](https://www.w3resource.com/java-exercises/array/index.php) |
 |          |
-| 10). Maximum Number in an Array |   |
-| 11). Reverse an Array |  |
-| 12). Sum of all elements of an array | |
-| 13). Merge two sorted arrays |  |
+| 10). sort a numeric array and a string array. |   |
+| 11). program to sum values of an array. |  |
+| 12). program to test if an array contains a specific value. | |
+| 13). program to find the index of an array element. |  |
+| 14). program to remove a specific element from an array. |  |
+|          |
+|  [Link](https://www.w3resource.com/java-exercises/array/index.php) |
+|          |
 | 14). Maximum Number in an Array |    |
 | 15). Reverse an Array |  |
 | 16). Sum of all elements of an array |   |
