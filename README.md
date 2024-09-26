@@ -11,10 +11,28 @@
 |          |
 |   [javarevisited](https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html#axzz8mwGpFNbN)  |
 |          |
-| 5). find the missing number in integer array of 1 to 100 |  
-| 6). find duplicate number on Integer array |  
-| 7). check if array contains a number | 
-| 8). find largest and smallest number in unsorted array | 
+| 1). find the missing number in integer array of 1 to 100 |  
+| 2). find duplicate number on Integer array |  
+| 3). check if array contains a number | 
+| 4). find largest and smallest number in unsorted array | 
+| 5). find all pairs on integer array whose sum is equal to given number |  
+| 6). find repeated numbers in an array if it contains multiple duplicates |  
+| 7). program to remove duplicates from array | 
+| 8). sort an array in place using QuickSort algorithm | 
+| 9). program to find intersection of two sorted arrays |  
+| 10). There is an array with every element repeated twice except one. Find that element |  
+| 11). find kth smallest element in unsorted array | 
+| 12). find kth largest element in unsorted array | 
+| 13). find common elements in three sorted array |  
+| 14). find the first repeating element in an array of integers |  
+| 15). find first non-repeating element in array of integers | 
+| 16). find top two numbers from an integer array | 
+| 11). find kth smallest element in unsorted array | 
+| 12). find kth largest element in unsorted array | 
+| 13). find common elements in three sorted array |  
+| 14). find the first repeating element in an array of integers |  
+| 15). find first non-repeating element in array of integers | 
+| 16). find top two numbers from an integer array | 
 |          |
 |  [w3resource](https://www.w3resource.com/java-exercises/array/index.php) |
 |          |
