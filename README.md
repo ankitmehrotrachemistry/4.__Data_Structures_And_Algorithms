@@ -4,10 +4,6 @@
 
 | Arrays Questions |
 |----------|
-| 1). Merge two sorted arrays | 
-| 2). Maximum Number in an Array |  
-| 3). Reverse an Array | 
-| 4). Sum of all elements of an array |
 |          |
 |   [javarevisited](https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html#axzz8mwGpFNbN)  |
 |          |
@@ -27,27 +23,35 @@
 | 14). find the first repeating element in an array of integers |  
 | 15). find first non-repeating element in array of integers | 
 | 16). find top two numbers from an integer array | 
-| 11). find kth smallest element in unsorted array | 
-| 12). find kth largest element in unsorted array | 
-| 13). find common elements in three sorted array |  
-| 14). find the first repeating element in an array of integers |  
-| 15). find first non-repeating element in array of integers | 
-| 16). find top two numbers from an integer array | 
+| 17). find the smallest positive integer value that cannot be represented as sum of any subset of a given array | 
+| 18). rearrange array in alternating positive and negative number | 
+| 19). find if there is a sub array with sum equal to zero |  
+| 20). Remove duplicates from array in place |  
+| 21). remove a given element from array | 
+| 22). merge sorted array | 
+| 23). find sub array with maximum sum in an array of positive and negative number |  
+| 24). find sub array with largest product in array of both positive and negative number |  
+| 25). find length of longest consecutive sequence in array of integers | 
+| 26). find minimum value in a rotated sorted array | 
+| 27). Given an array of of size n and a number k, find all elements that appear more than n/k times | 
+| 28). reverse array in place | 
+| 29). array and linked list data structure |  
+| 30). check if array contains a duplicate number |
 |          |
 |  [w3resource](https://www.w3resource.com/java-exercises/array/index.php) |
 |          |
-| 10). sort a numeric array and a string array. |   
-| 11). program to sum values of an array. | 
-| 12). program to test if an array contains a specific value. | 
-| 13). program to find the index of an array element. | 
-| 14). program to remove a specific element from an array. | 
+| 1). sort a numeric array and a string array. |   
 |          |
 |  [interviewbit](https://www.interviewbit.com/array-interview-questions/) |
 |          |
-| 14). Maximum Number in an Array |  
-| 15). Reverse an Array | 
-| 16). Sum of all elements of an array |  
-| 17). Merge two sorted arrays |  
+| 1). Maximum Number in an Array |  
+|          |
+|   [igotanoffer](https://igotanoffer.com/blogs/tech/array-interview-questions)  |
+|          |
+| 1). Merge two sorted arrays | 
+| 2). Maximum Number in an Array |  
+| 3). Reverse an Array | 
+| 4). Sum of all elements of an array |
 
 ### Easy
 
