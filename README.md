@@ -4,10 +4,26 @@
 
 | Arrays Questions | 
 |----------|
-| 1). Merge two sorted arrays | 
-| 2). Maximum Number in an Array | 
-| 3). Reverse an Array |
-| 4). Sum of all elements of an array |
+| 1). Merge two sorted arrays | [Link]()|
+| 2). Maximum Number in an Array | | 
+| 3). Reverse an Array | |
+| 4). Sum of all elements of an array | |
+| 5). find the missing number in integer array of 1 to 100 | [Link](https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html#axzz8mwGpFNbN) |  | 
+| 6). Maximum Number in an Array |  | 
+| 7). Reverse an Array |  | 
+| 8). Sum of all elements of an array |  |
+| 9). Merge two sorted arrays |    |
+| 10). Maximum Number in an Array |    |
+| 11). Reverse an Array |   |
+| 12). Sum of all elements of an array |   |
+| 13). Merge two sorted arrays |   |
+| 14). Maximum Number in an Array |    |
+| 15). Reverse an Array |   |
+| 16). Sum of all elements of an array |   |
+| 17). Merge two sorted arrays |    |
+| 18). Maximum Number in an Array |   |
+| 19). Reverse an Array |
+| 20). Sum of all elements of an array |
 
 ### Easy
 
