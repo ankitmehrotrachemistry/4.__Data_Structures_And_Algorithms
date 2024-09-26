@@ -9,14 +9,14 @@
 | 3). Reverse an Array | |
 | 4). Sum of all elements of an array | |
 |          |
-|   [Link](https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html#axzz8mwGpFNbN)  |
+|   [javarevisited](https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html#axzz8mwGpFNbN)  |
 |          |
 | 5). find the missing number in integer array of 1 to 100 |  |
 | 6). find duplicate number on Integer array |  | 
 | 7). check if array contains a number |  | 
 | 8). find largest and smallest number in unsorted array |  |
 |          |
-|  [Link](https://www.w3resource.com/java-exercises/array/index.php) |
+|  [w3resource](https://www.w3resource.com/java-exercises/array/index.php) |
 |          |
 | 10). sort a numeric array and a string array. |   |
 | 11). program to sum values of an array. |  |
@@ -24,15 +24,12 @@
 | 13). program to find the index of an array element. |  |
 | 14). program to remove a specific element from an array. |  |
 |          |
-|  [Link](https://www.w3resource.com/java-exercises/array/index.php) |
+|  [interviewbit](https://www.interviewbit.com/array-interview-questions/) |
 |          |
 | 14). Maximum Number in an Array |    |
 | 15). Reverse an Array |  |
 | 16). Sum of all elements of an array |   |
 | 17). Merge two sorted arrays |    |
-| 18). Maximum Number in an Array |   |
-| 19). Reverse an Array |  |
-| 20). Sum of all elements of an array |   |
 
 ### Easy
 
