@@ -8,11 +8,12 @@
 | 2). Maximum Number in an Array | | 
 | 3). Reverse an Array | |
 | 4). Sum of all elements of an array | |
+|   |
 | 5). find the missing number in integer array of 1 to 100 | [Link](https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html#axzz8mwGpFNbN) |
-| 6). Maximum Number in an Array |  | 
-| 7). Reverse an Array |  | 
-| 8). Sum of all elements of an array |  |
-| 9). Merge two sorted arrays |  |
+| 6). find duplicate number on Integer array |  | 
+| 7). check if array contains a number |  | 
+| 8). find largest and smallest number in unsorted array |  |
+|   |
 | 10). Maximum Number in an Array |   |
 | 11). Reverse an Array |  |
 | 12). Sum of all elements of an array | |
