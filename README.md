@@ -4,9 +4,10 @@
 
 | Arrays Questions | 
 |----------|
-| Surprisingly, abstract classes can have both abstract and non-abstract methods. | 
-| Since abstract classes can have both abstract and non-abstract methods, we need to use the Abstract keyword to declare abstract methods. | 
-| An abstract class has constructors. |
+| 1). Merge two sorted arrays | 
+| 2). Maximum Number in an Array | 
+| 3). Reverse an Array |
+| 4). Sum of all elements of an array |
 
 ### Easy
 
