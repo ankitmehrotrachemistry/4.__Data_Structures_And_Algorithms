@@ -53,6 +53,40 @@
 | 3). Reverse an Array | 
 | 4). Sum of all elements of an array |
 
+### javarevisited
+
+#### 1). find the missing number in integer array of 1 to 100
+
+```csharp
+using System;
+
+public class Program 
+{
+    public static int MissingNumber(int n, int[] arr)
+    {
+        int sum = 0;
+
+        for (int i = 0; i < n - 1; i++) {
+            sum += arr[i];
+        }
+
+        int expectedSum = (n * (n + 1)) / 2;
+
+        return expectedSum - sum;
+    }
+
+    public static void Main()
+    {
+        int[] arr = { 1, 2, 3, 5 };
+        int n = 5;
+        Console.WriteLine(MissingNumber(n, arr));
+    }
+}
+```
+
+
+
+
 ### Easy
 
 ### 1.1 Merge two sorted arrays.
