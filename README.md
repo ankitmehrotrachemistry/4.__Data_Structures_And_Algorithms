@@ -78,7 +78,7 @@ public class Program
     public static void Main()
     {
         int[] arr = { 1, 2, 3, 5 };
-        int n = 5;
+        int n = 5; 
         Console.WriteLine(MissingNumber(n, arr));
     }
 }
