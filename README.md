@@ -87,7 +87,7 @@ public class Program
 
 ### igotanoffer
 
-#### EASY
+#### A). EASY
 
 #### 1.1 Merge two sorted arrays.
 [GeeksforGeeks](https://www.geeksforgeeks.org/merge-two-sorted-arrays/)
@@ -552,16 +552,21 @@ Text guide (GeeksForGeeks)
 Text guide (GeeksForGeeks)
 
 
-#### Medium
-#### Hard
+#### B). MEDIUM
+
+
+#### C). HARD
+
 
 ## 2). Strings
 
-#### Easy
+#### A). EASY
 
 
-#### Medium
-#### Hard
+#### B). MEDIUM
+
+
+#### C). HARD
 
 
 ## Problems will come on these topics also
