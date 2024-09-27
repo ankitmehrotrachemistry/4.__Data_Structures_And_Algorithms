@@ -89,7 +89,7 @@ public class Program
 
 ### Easy
 
-### 1.1 Merge two sorted arrays.
+#### 1.1 Merge two sorted arrays.
 [GeeksforGeeks](https://www.geeksforgeeks.org/merge-two-sorted-arrays/)
 
 ```csharp
@@ -135,7 +135,7 @@ public class GfG {
 }
 ```
 
-### 1.2 Remove duplicates from an array.
+#### 1.2 Remove duplicates from an array.
 [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) , 
 [geeksforgeeks](https://www.geeksforgeeks.org/remove-duplicates-sorted-array/)
 
@@ -185,7 +185,7 @@ class GfG {
 }
 ```
 
-### 1.3 Count the frequency of an element in an array
+#### 1.3 Count the frequency of an element in an array
 [GeeksforGeeks](https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/)
 
 **Simple Solution**  
@@ -280,7 +280,7 @@ class GFG
 ```
 
 
-### 1.4 Two sum
+#### 1.4 Two sum
 [geeksforgeeks]([Codeburst](https://www.geeksforgeeks.org/check-if-pair-with-given-sum-exists-in-array/))
 
 **Sorting and Binary Search**
@@ -430,11 +430,11 @@ class GfG {
 ```
 
 
-### 1.5 Find the minimum (or maximum) element of an array
+#### 1.5 Find the minimum (or maximum) element of an array
 Text guide (Enjoy Algorithms)
 
 
-### 1.6 Remove duplicates from sorted array
+#### 1.6 Remove duplicates from sorted array
 **Brute Force (HashSet)**
 
 ```csharp
