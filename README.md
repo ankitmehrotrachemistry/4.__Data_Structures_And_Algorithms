@@ -121,14 +121,18 @@ public class Program
 
 | Arrays Questions |
 |----------|
-|          |
+|    **EASY**      |
 |   [igotanoffer](https://igotanoffer.com/blogs/tech/array-interview-questions)  |
 |          |
 | 1). Merge two sorted arrays | 
 | 2). Maximum Number in an Array |  
 | 3). Reverse an Array | 
 | 4). Sum of all elements of an array |
-|          |
+|           |
+|     **MEDIUM**     |
+|           |
+|     **HARD**     |
+|           |
 
 
 #### A). EASY
