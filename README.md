@@ -124,16 +124,8 @@ public class Exercise2
 ```
 
 #### 3). print the following grid.  
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -                                                                                           
-- - - - - - - - - -  
+
+![image](https://github.com/user-attachments/assets/ba0175b8-dde8-4682-aad9-428b9e7ed41e)
 
 ```csharp
 using System;
