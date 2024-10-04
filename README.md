@@ -41,6 +41,25 @@
 |  [w3resource](https://www.w3resource.com/java-exercises/array/index.php) |
 |          |
 | 1). sort a numeric array and a string array. |   
+| 2). sum values of an array. |  
+| 3). print the following grid. |  
+| 4). calculate the average value of array elements |  
+| 5). test if an array contains a specific value. |  
+| 6). find the index of an array element. |  
+| 7). remove a specific element from an array. |  
+| 8). copy an array by iterating the array. |  
+| 9). insert an element (specific position) into an array. |  
+| 10). find the maximum and minimum value of an array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
 |          |
 |  [interviewbit](https://www.interviewbit.com/array-interview-questions/) |
 |          |
