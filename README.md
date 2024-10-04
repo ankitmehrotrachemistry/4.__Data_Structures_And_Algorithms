@@ -30,21 +30,10 @@ public class Exercise1
     public static void Main(string[] args)
     {
         // Declare and initialize an integer array.
-        int[] myArray1 = {
-            1789, 2035, 1899, 1456, 2013,
-            1458, 2458, 1254, 1472, 2365,
-            1456, 2165, 1457, 2456
-        };
+        int[] myArray1 = { 1789, 2035, 1899, 1456, 2013, 1458, 2458, 1254, 1472, 2365, 1456, 2165, 1457, 2456};
 
         // Declare and initialize a string array.
-        string[] myArray2 = {
-            "Java",
-            "Python",
-            "PHP",
-            "C#",
-            "C Programming",
-            "C++"
-        };
+        string[] myArray2 = {"Java","Python", "PHP", "C#", "C Programming","C++"};
 
         // Print the original numeric array.
         Console.WriteLine("Original numeric array: " + string.Join(", ", myArray1));
@@ -134,22 +123,123 @@ public class Exercise2
 }
 ```
 
-#### 3). print the following grid.
+#### 3). print the following grid.  
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -                                                                                           
+- - - - - - - - - -  
 
 ```csharp
+using System;
 
+public class MainClass
+{
+    // The main method where the program execution starts.
+    public static void Main(string[] args)
+    {
+        // Declare a two-dimensional integer array 'a' with dimensions 10x10.
+        int[,] a = new int[10, 10];
+
+        // Use nested loops to iterate over each row and column of the array.
+        for (int i = 0; i < 10; i++)
+        {
+            for (int j = 0; j < 10; j++)
+            {
+                // Check if the element is 0 and replace it with a dash (-).
+                if (a[i, j] == 0)
+                {
+                    Console.Write($"-  ");
+                }
+                else
+                {
+                    Console.Write($"{a[i, j],2} ");
+                }
+            }
+            // Move to the next line to represent a new row in the output.
+            Console.WriteLine();
+        }
+    }
+}
 ```
 
 #### 4). calculate the average value of array elements
 
 ```csharp
+using System;
 
+public class Exercise4
+{
+    // The main method where the program execution starts.
+    public static void Main(string[] args)
+    {
+        // Declare an integer array 'numbers' and initialize it with values.
+        int[] numbers = new int[] { 20, 30, 25, 35, -16, 60, -100 };
+
+        // Initialize a variable 'sum' to store the sum of array elements.
+        int sum = 0;
+
+        // Use a for loop to iterate over the elements of the 'numbers' array.
+        for (int i = 0; i < numbers.Length; i++)
+        {
+            // Add the current element to the sum.
+            sum += numbers[i];
+        }
+
+        // Calculate the average value by dividing the sum by the number of elements.
+        double average = (double)sum / numbers.Length;
+
+        // Print the calculated average value to the console.
+        Console.WriteLine("Average value of the array elements is: " + average);
+    }
+}
 ```
 
 
 #### 5). test if an array contains a specific value.
 
 ```csharp
+using System;
+
+public class Exercise5
+{
+    // Define a method 'Contains' that checks if an integer array 'arr' contains a given 'item'.
+    public static bool Contains(int[] arr, int item)
+    {
+        // Iterate through each element 'n' in the array 'arr'.
+        foreach (int n in arr)
+        {
+            // Check if 'item' is equal to the current element 'n'.
+            if (item == n)
+            {
+                // If a match is found, return 'true'.
+                return true;
+            }
+        }
+        // If no match is found, return 'false'.
+        return false;
+    }
+
+    // The main method where the program execution starts.
+    public static void Main(string[] args)
+    {
+        // Declare an integer array 'myArray1' and initialize it with values.
+        int[] myArray1 = {
+            1789, 2035, 1899, 1456, 2013, 1458, 2458, 1254, 1472, 2365, 1456, 2265, 1457, 2456
+        };
+
+        // Check if the integer array 'myArray1' contains the item 2013 and print the result.
+        Console.WriteLine(Contains(myArray1, 2013));
+
+        // Check if the integer array 'myArray1' contains the item 2015 and print the result.
+        Console.WriteLine(Contains(myArray1, 2015));
+    }
+}
 
 ```
 
