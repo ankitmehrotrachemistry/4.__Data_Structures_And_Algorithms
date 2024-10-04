@@ -22,13 +22,116 @@
 #### 1). sort a numeric array and a string array.
 
 ```csharp
+using System;
 
+public class Exercise1
+{
+    // The main method where the program execution starts.
+    public static void Main(string[] args)
+    {
+        // Declare and initialize an integer array.
+        int[] myArray1 = {
+            1789, 2035, 1899, 1456, 2013,
+            1458, 2458, 1254, 1472, 2365,
+            1456, 2165, 1457, 2456
+        };
+
+        // Declare and initialize a string array.
+        string[] myArray2 = {
+            "Java",
+            "Python",
+            "PHP",
+            "C#",
+            "C Programming",
+            "C++"
+        };
+
+        // Print the original numeric array.
+        Console.WriteLine("Original numeric array: " + string.Join(", ", myArray1));
+
+        // Sort the numeric array using a custom bubble sort implementation.
+        BubbleSort(myArray1);
+
+        // Print the sorted numeric array.
+        Console.WriteLine("Sorted numeric array: " + string.Join(", ", myArray1));
+
+        // Print the original string array.
+        Console.WriteLine("Original string array: " + string.Join(", ", myArray2));
+
+        // Sort the string array using a custom bubble sort implementation.
+        BubbleSort(myArray2);
+
+        // Print the sorted string array.
+        Console.WriteLine("Sorted string array: " + string.Join(", ", myArray2));
+    }
+
+    // Custom Bubble Sort for integer arrays.
+    public static void BubbleSort(int[] array)
+    {
+        int n = array.Length;
+        for (int i = 0; i < n - 1; i++)
+        {
+            for (int j = 0; j < n - i - 1; j++)
+            {
+                // If the current element is greater than the next, swap them.
+                if (array[j] > array[j + 1])
+                {
+                    int temp = array[j];
+                    array[j] = array[j + 1];
+                    array[j + 1] = temp;
+                }
+            }
+        }
+    }
+
+    // Custom Bubble Sort for string arrays.
+    public static void BubbleSort(string[] array)
+    {
+        int n = array.Length;
+        for (int i = 0; i < n - 1; i++)
+        {
+            for (int j = 0; j < n - i - 1; j++)
+            {
+                // Compare strings lexicographically and swap if necessary.
+                if (string.Compare(array[j], array[j + 1]) > 0)
+                {
+                    string temp = array[j];
+                    array[j] = array[j + 1];
+                    array[j + 1] = temp;
+                }
+            }
+        }
+    }
+}
 ```
 
 #### 2). sum values of an array.
 
 ```csharp
+using System;
 
+public class Exercise2
+{
+    // The main method where the program execution starts.
+    public static void Main(string[] args)
+    {
+        // Declare and initialize an integer array.
+        int[] myArray = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+        // Declare and initialize a variable to store the sum.
+        int sum = 0;
+
+        // Iterate over each element of the array using a foreach loop.
+        foreach (int i in myArray)
+        {
+            // Add each element to the sum.
+            sum += i;
+        }
+
+        // Print the sum of the array elements.
+        Console.WriteLine("The sum is " + sum);
+    }
+}
 ```
 
 #### 3). print the following grid.
