@@ -70,6 +70,7 @@ public class Program
 }
 ```
 
+|----------|
 |          |
 |  [w3resource](https://www.w3resource.com/java-exercises/array/index.php) |
 |          |
@@ -96,21 +97,23 @@ public class Program
 |          |
 ### ============================ w3resource ============================
 
-|         |
+|----------|
+|          |
 |  [interviewbit](https://www.interviewbit.com/array-interview-questions/) |
 |          |
 | 1). Maximum Number in an Array |  
 |          |
 ### ============================ interviewbit ============================
 
-|         |
+|----------|
+|          |
 |   [igotanoffer](https://igotanoffer.com/blogs/tech/array-interview-questions)  |
 |          |
 | 1). Merge two sorted arrays | 
 | 2). Maximum Number in an Array |  
 | 3). Reverse an Array | 
 | 4). Sum of all elements of an array |
-|         |
+|          |
 ### ============================ igotanoffer ============================
 
 #### A). EASY
