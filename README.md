@@ -317,6 +317,9 @@ public class Program
 }
 ```
 
+| Arrays Questions |
+|----------|
+|          |
 | 11). find kth smallest element in unsorted array | 
 | 12). find kth largest element in unsorted array | 
 | 13). find common elements in three sorted array |  
@@ -327,6 +330,7 @@ public class Program
 | 18). rearrange array in alternating positive and negative number | 
 | 19). find if there is a sub array with sum equal to zero |  
 | 20). Remove duplicates from array in place |  
+|  |  
 
 #### 1). find the missing number in integer array of 1 to 100
 
@@ -356,7 +360,9 @@ public class Program
     }
 }
 ```
-
+| Arrays Questions |  
+|----------|
+|          |  
 | 21). remove a given element from array | 
 | 22). merge sorted array | 
 | 23). find sub array with maximum sum in an array of positive and negative number |  
