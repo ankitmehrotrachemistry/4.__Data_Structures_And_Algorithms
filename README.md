@@ -37,40 +37,7 @@
 | 28). reverse array in place | 
 | 29). array and linked list data structure |  
 | 30). check if array contains a duplicate number |
-|          |
-|  [w3resource](https://www.w3resource.com/java-exercises/array/index.php) |
-|          |
-| 1). sort a numeric array and a string array. |   
-| 2). sum values of an array. |  
-| 3). print the following grid. |  
-| 4). calculate the average value of array elements |  
-| 5). test if an array contains a specific value. |  
-| 6). find the index of an array element. |  
-| 7). remove a specific element from an array. |  
-| 8). copy an array by iterating the array. |  
-| 9). insert an element (specific position) into an array. |  
-| 10). find the maximum and minimum value of an array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-|          |
-|  [interviewbit](https://www.interviewbit.com/array-interview-questions/) |
-|          |
-| 1). Maximum Number in an Array |  
-|          |
-|   [igotanoffer](https://igotanoffer.com/blogs/tech/array-interview-questions)  |
-|          |
-| 1). Merge two sorted arrays | 
-| 2). Maximum Number in an Array |  
-| 3). Reverse an Array | 
-| 4). Sum of all elements of an array |
+|         |
 
 ### ============================ javarevisited ============================
 
@@ -103,10 +70,47 @@ public class Program
 }
 ```
 
+|          |
+|  [w3resource](https://www.w3resource.com/java-exercises/array/index.php) |
+|          |
+| 1). sort a numeric array and a string array. |   
+| 2). sum values of an array. |  
+| 3). print the following grid. |  
+| 4). calculate the average value of array elements |  
+| 5). test if an array contains a specific value. |  
+| 6). find the index of an array element. |  
+| 7). remove a specific element from an array. |  
+| 8). copy an array by iterating the array. |  
+| 9). insert an element (specific position) into an array. |  
+| 10). find the maximum and minimum value of an array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+| 1). sort a numeric array and a string array. |  
+|          |
 ### ============================ w3resource ============================
 
+|         |
+|  [interviewbit](https://www.interviewbit.com/array-interview-questions/) |
+|          |
+| 1). Maximum Number in an Array |  
+|          |
 ### ============================ interviewbit ============================
 
+|         |
+|   [igotanoffer](https://igotanoffer.com/blogs/tech/array-interview-questions)  |
+|          |
+| 1). Merge two sorted arrays | 
+| 2). Maximum Number in an Array |  
+| 3). Reverse an Array | 
+| 4). Sum of all elements of an array |
+|         |
 ### ============================ igotanoffer ============================
 
 #### A). EASY
