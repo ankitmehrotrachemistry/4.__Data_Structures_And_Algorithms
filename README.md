@@ -70,6 +70,14 @@ public class Program
 }
 ```
 
+| Strings Questions |
+|----------|
+|          |
+|   [javarevisited](https://javarevisited.blogspot.com/2015/01/top-20-string-coding-interview-question-programming-interview.html#axzz8nfGDfJoI)  |
+|          |
+| 1). Print duplicate characters from String |  
+| 2). Check if two Strings are anagrams of each other |  
+
 ### ============================ w3resource ============================
 
 | Arrays Questions |
