@@ -1,5 +1,7 @@
 # Questions on Arrays and Strings
 
+### ============================ javarevisited ============================
+
 ## 1). Arrays
 
 | Arrays Questions |
@@ -39,8 +41,6 @@
 | 30). check if array contains a duplicate number |
 |         |
 
-### ============================ javarevisited ============================
-
 #### 1). find the missing number in integer array of 1 to 100
 
 ```csharp
@@ -70,6 +70,8 @@ public class Program
 }
 ```
 
+### ============================ w3resource ============================
+
 | Arrays Questions |
 |----------|
 |          |
@@ -96,7 +98,8 @@ public class Program
 | 1). sort a numeric array and a string array. |  
 | 1). sort a numeric array and a string array. |  
 |          |
-### ============================ w3resource ============================
+
+### ============================ interviewbit ============================
 
 | Arrays Questions |
 |----------|
@@ -105,7 +108,8 @@ public class Program
 |          |
 | 1). Maximum Number in an Array |  
 |          |
-### ============================ interviewbit ============================
+
+### ============================ igotanoffer ============================
 
 | Arrays Questions |
 |----------|
@@ -117,7 +121,7 @@ public class Program
 | 3). Reverse an Array | 
 | 4). Sum of all elements of an array |
 |          |
-### ============================ igotanoffer ============================
+
 
 #### A). EASY
 
