@@ -95,17 +95,70 @@ public class Program
 | 8). copy an array by iterating the array. |  
 | 9). insert an element (specific position) into an array. |  
 | 10). find the maximum and minimum value of an array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
-| 1). sort a numeric array and a string array. |  
 |          |
+
+#### 1). sort a numeric array and a string array.
+
+```csharp
+
+```
+
+#### 2). sum values of an array.
+
+```csharp
+
+```
+
+#### 3). print the following grid.
+
+```csharp
+
+```
+
+#### 4). calculate the average value of array elements
+
+```csharp
+
+```
+
+
+#### 5). test if an array contains a specific value.
+
+```csharp
+
+```
+
+#### 6). find the index of an array element.
+
+```csharp
+
+```
+
+
+#### 7). remove a specific element from an array.
+
+```csharp
+
+```
+
+#### 8). copy an array by iterating the array.
+
+```csharp
+
+```
+
+
+#### 9). insert an element (specific position) into an array.
+
+```csharp
+
+```
+
+#### 10). find the maximum and minimum value of an array.
+
+```csharp
+
+```
 
 ### ============================ interviewbit ============================
 
@@ -121,8 +174,9 @@ public class Program
 
 | Arrays Questions |
 |----------|
-|    **EASY**      |
 |   [igotanoffer](https://igotanoffer.com/blogs/tech/array-interview-questions)  |
+|          |
+|    **EASY**      |
 |          |
 | 1). Merge two sorted arrays | 
 | 2). Maximum Number in an Array |  
