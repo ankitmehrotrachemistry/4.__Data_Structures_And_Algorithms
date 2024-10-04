@@ -1,83 +1,5 @@
 # Questions on Arrays and Strings
 
-### ============================ javarevisited ============================
-
-## 1). Arrays
-
-| Arrays Questions |
-|----------|
-|          |
-|   [javarevisited](https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html#axzz8mwGpFNbN)  |
-|          |
-| 1). find the missing number in integer array of 1 to 100 |  
-| 2). find duplicate number on Integer array |  
-| 3). check if array contains a number | 
-| 4). find largest and smallest number in unsorted array | 
-| 5). find all pairs on integer array whose sum is equal to given number |  
-| 6). find repeated numbers in an array if it contains multiple duplicates |  
-| 7). program to remove duplicates from array | 
-| 8). sort an array in place using QuickSort algorithm | 
-| 9). program to find intersection of two sorted arrays |  
-| 10). There is an array with every element repeated twice except one. Find that element |  
-| 11). find kth smallest element in unsorted array | 
-| 12). find kth largest element in unsorted array | 
-| 13). find common elements in three sorted array |  
-| 14). find the first repeating element in an array of integers |  
-| 15). find first non-repeating element in array of integers | 
-| 16). find top two numbers from an integer array | 
-| 17). find the smallest positive integer value that cannot be represented as sum of any subset of a given array | 
-| 18). rearrange array in alternating positive and negative number | 
-| 19). find if there is a sub array with sum equal to zero |  
-| 20). Remove duplicates from array in place |  
-| 21). remove a given element from array | 
-| 22). merge sorted array | 
-| 23). find sub array with maximum sum in an array of positive and negative number |  
-| 24). find sub array with largest product in array of both positive and negative number |  
-| 25). find length of longest consecutive sequence in array of integers | 
-| 26). find minimum value in a rotated sorted array | 
-| 27). Given an array of of size n and a number k, find all elements that appear more than n/k times | 
-| 28). reverse array in place | 
-| 29). array and linked list data structure |  
-| 30). check if array contains a duplicate number |
-|         |
-
-#### 1). find the missing number in integer array of 1 to 100
-
-```csharp
-using System;
-
-public class Program 
-{
-    public static int MissingNumber(int n, int[] arr)
-    {
-        int sum = 0;
-
-        for (int i = 0; i < n - 1; i++) {
-            sum += arr[i];
-        }
-
-        int expectedSum = (n * (n + 1)) / 2;
-
-        return expectedSum - sum;
-    }
-
-    public static void Main()
-    {
-        int[] arr = { 1, 2, 3, 5 };
-        int n = 5; 
-        Console.WriteLine(MissingNumber(n, arr));
-    }
-}
-```
-
-| Strings Questions |
-|----------|
-|          |
-|   [javarevisited](https://javarevisited.blogspot.com/2015/01/top-20-string-coding-interview-question-programming-interview.html#axzz8nfGDfJoI)  |
-|          |
-| 1). Print duplicate characters from String |  
-| 2). Check if two Strings are anagrams of each other |  
-
 ### ============================ w3resource ============================
 
 | Arrays Questions |
@@ -159,6 +81,84 @@ public class Program
 ```csharp
 
 ```
+
+### ============================ javarevisited ============================
+
+## 1). Arrays
+
+| Arrays Questions |
+|----------|
+|          |
+|   [javarevisited](https://javarevisited.blogspot.com/2015/06/top-20-array-interview-questions-and-answers.html#axzz8mwGpFNbN)  |
+|          |
+| 1). find the missing number in integer array of 1 to 100 |  
+| 2). find duplicate number on Integer array |  
+| 3). check if array contains a number | 
+| 4). find largest and smallest number in unsorted array | 
+| 5). find all pairs on integer array whose sum is equal to given number |  
+| 6). find repeated numbers in an array if it contains multiple duplicates |  
+| 7). program to remove duplicates from array | 
+| 8). sort an array in place using QuickSort algorithm | 
+| 9). program to find intersection of two sorted arrays |  
+| 10). There is an array with every element repeated twice except one. Find that element |  
+| 11). find kth smallest element in unsorted array | 
+| 12). find kth largest element in unsorted array | 
+| 13). find common elements in three sorted array |  
+| 14). find the first repeating element in an array of integers |  
+| 15). find first non-repeating element in array of integers | 
+| 16). find top two numbers from an integer array | 
+| 17). find the smallest positive integer value that cannot be represented as sum of any subset of a given array | 
+| 18). rearrange array in alternating positive and negative number | 
+| 19). find if there is a sub array with sum equal to zero |  
+| 20). Remove duplicates from array in place |  
+| 21). remove a given element from array | 
+| 22). merge sorted array | 
+| 23). find sub array with maximum sum in an array of positive and negative number |  
+| 24). find sub array with largest product in array of both positive and negative number |  
+| 25). find length of longest consecutive sequence in array of integers | 
+| 26). find minimum value in a rotated sorted array | 
+| 27). Given an array of of size n and a number k, find all elements that appear more than n/k times | 
+| 28). reverse array in place | 
+| 29). array and linked list data structure |  
+| 30). check if array contains a duplicate number |
+|         |
+
+#### 1). find the missing number in integer array of 1 to 100
+
+```csharp
+using System;
+
+public class Program 
+{
+    public static int MissingNumber(int n, int[] arr)
+    {
+        int sum = 0;
+
+        for (int i = 0; i < n - 1; i++) {
+            sum += arr[i];
+        }
+
+        int expectedSum = (n * (n + 1)) / 2;
+
+        return expectedSum - sum;
+    }
+
+    public static void Main()
+    {
+        int[] arr = { 1, 2, 3, 5 };
+        int n = 5; 
+        Console.WriteLine(MissingNumber(n, arr));
+    }
+}
+```
+
+| Strings Questions |
+|----------|
+|          |
+|   [javarevisited](https://javarevisited.blogspot.com/2015/01/top-20-string-coding-interview-question-programming-interview.html#axzz8nfGDfJoI)  |
+|          |
+| 1). Print duplicate characters from String |  
+| 2). Check if two Strings are anagrams of each other |  
 
 ### ============================ interviewbit ============================
 
