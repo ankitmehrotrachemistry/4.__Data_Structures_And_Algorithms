@@ -70,6 +70,7 @@ public class Program
 }
 ```
 
+| Arrays Questions |
 |----------|
 |          |
 |  [w3resource](https://www.w3resource.com/java-exercises/array/index.php) |
@@ -97,6 +98,7 @@ public class Program
 |          |
 ### ============================ w3resource ============================
 
+| Arrays Questions |
 |----------|
 |          |
 |  [interviewbit](https://www.interviewbit.com/array-interview-questions/) |
@@ -105,6 +107,7 @@ public class Program
 |          |
 ### ============================ interviewbit ============================
 
+| Arrays Questions |
 |----------|
 |          |
 |   [igotanoffer](https://igotanoffer.com/blogs/tech/array-interview-questions)  |
