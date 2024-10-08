@@ -109,10 +109,8 @@ class GfG {
 }
 ```
 
-#### 1.3 Count the frequency of an element in an array
-[GeeksforGeeks](https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/)
-
-**Simple Solution**  
+#### 1.3 Count the frequency of an element in an array [GeeksforGeeks](https://www.geeksforgeeks.org/counting-frequencies-of-array-elements/)
+ 
 ```csharp
 // C# program to count frequencies of array items
 using System;
