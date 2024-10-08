@@ -9,15 +9,6 @@
 
 | Strings Questions |
 |----------|
-|          |
-|   [javarevisited](https://javarevisited.blogspot.com/2015/01/top-20-string-coding-interview-question-programming-interview.html#axzz8nfGDfJoI)  |
-|          |
-| 1). Print duplicate characters from String |  
-| 2). Check if two Strings are anagrams of each other |  
-
-
-| Strings Questions |
-|----------|
 |          |  
 |  [codeforwin](https://codeforwin.org/c-programming/string-programming-exercises-and-solutions-in-c) |
 |          |  
