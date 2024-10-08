@@ -2,16 +2,6 @@
 
 ## 1). Arrays
 
-### ============================ interviewbit ============================
-
-| Arrays Questions |
-|----------|
-|          |
-|  [interviewbit](https://www.interviewbit.com/array-interview-questions/) |
-|          |
-| 1). Maximum Number in an Array |  
-|          |
-
 ### ============================ igotanoffer ============================
 
 | Arrays Questions |
