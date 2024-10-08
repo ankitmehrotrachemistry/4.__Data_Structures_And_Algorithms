@@ -1,17 +1,6 @@
 # Questions on Arrays and Strings
 
-
-### ============================ javarevisited ============================
-
 ## 1). Arrays
-
-| Strings Questions |
-|----------|
-|          |
-|   [javarevisited](https://javarevisited.blogspot.com/2015/01/top-20-string-coding-interview-question-programming-interview.html#axzz8nfGDfJoI)  |
-|          |
-| 1). Print duplicate characters from String |  
-| 2). Check if two Strings are anagrams of each other |  
 
 ### ============================ interviewbit ============================
 
@@ -498,13 +487,18 @@ Text guide (GeeksForGeeks)
 Text guide (GeeksForGeeks)
 
 
-#### B). MEDIUM
-
-
-#### C). HARD
-
-
 ## 2). Strings
+
+### ============================ javarevisited ============================
+
+| Strings Questions |
+|----------|
+|          |
+|   [javarevisited](https://javarevisited.blogspot.com/2015/01/top-20-string-coding-interview-question-programming-interview.html#axzz8nfGDfJoI)  |
+|          |
+| 1). Print duplicate characters from String |  
+| 2). Check if two Strings are anagrams of each other |  
+
 
 | Strings Questions |
 |----------|
