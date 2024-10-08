@@ -23,8 +23,7 @@
 
 #### A). EASY
 
-#### 1.1 Merge two sorted arrays.
-[GeeksforGeeks](https://www.geeksforgeeks.org/merge-two-sorted-arrays/)
+#### 1.1 Merge two sorted arrays. [GeeksforGeeks](https://www.geeksforgeeks.org/merge-two-sorted-arrays/)
 
 ```csharp
 using System;
