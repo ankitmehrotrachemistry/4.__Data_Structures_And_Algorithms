@@ -42,7 +42,8 @@ public class Exercise2
         Console.Write("Length of the string is: {0}\n\n", len);
     }
 }
-**Output : **
+
+**Output**
 Find the length of a string:
 ---------------------------------
 Input the string: ankit mehrotra
