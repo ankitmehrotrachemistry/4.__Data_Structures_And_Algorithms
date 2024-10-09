@@ -97,14 +97,115 @@ Number of characters copied: 5
 
 #### 4. C# program to compare two strings.
 ```csharp
+using System;    
+public class StringExample    
+    {    
+        public static void Main(string[] args)    
+        {    
+            string s1 = "hello";    
+            string s2 = "hello";    
+            string s3 = "csharp";  
+            string s4 = "mello";  
+        
+            Console.WriteLine(string.Compare(s1,s2));   
+            Console.WriteLine(string.Compare(s2,s3));   
+            Console.WriteLine(string.Compare(s3,s4));   
+        }    
+    }
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+0
+1
+-1
 ```
 
 #### 5. C# program to convert lowercase string to uppercase.
 ```csharp
+using System;  
+using System.Collections.Generic;  
+using System.Linq;  
+using System.Text;  
+using System.Threading.Tasks;  
+  
+namespace LowerTOUpper  
+{  
+    class LowerTOUpper  
+    {  
+       public static String ConvertToUpperCase(String input)  
+      {  
+         String output = "";  
+         for (int i = 0; i < input.Length; i++)  
+         {  
+            if (input[i] >= 'a' && input[i] <= 'z')  
+            {  
+               output += (char)(input[i] - 'a' + 'A');  
+            }  
+            else  
+               output += input[i];  
+         }  
+         return output;  
+      }  
+   
+      static void Main(string[] args)  
+      {  
+         System.Console.Write("Enter a string: ");  
+         String input = System.Console.ReadLine();  
+         input = ConvertToUpperCase(input);  
+         System.Console.WriteLine("Converted String in Upper Case: " + input);  
+         Console.ReadLine();  
+      }  
+    }  
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Enter a string: Ankit Mehrotra
+Converted String in Upper Case: ANKIT MEHROTRA
 ```
 
 #### 6. C# program to convert uppercase string to lowercase.
 ```csharp
+using System;  
+using System.Collections.Generic;  
+using System.Linq;  
+using System.Text;  
+using System.Threading.Tasks;  
+  
+namespace UpperToLower  
+{  
+    class UpperToLower  
+    {  
+        public static String ConvertToLowerCase(String input)  
+        {  
+            String output = "";  
+            for (int i = 0; i < input.Length; i++)  
+            {  
+                if (input[i] >= 'A' && input[i] <= 'Z')  
+                {  
+                    output += (char)(input[i] - 'A' + 'a'); 
+                }  
+                else  
+                    output += input[i];
+            }  
+            return output;  
+        }  
+  
+        static void Main(string[] args)  
+        {  
+            // Input from user
+            System.Console.Write("Enter a string: ");  
+            String input = System.Console.ReadLine();  
+            
+            input = ConvertToLowerCase(input);  
+            
+            System.Console.WriteLine("Converted String in Lower Case: " + input);  
+            Console.ReadLine();  
+        }  
+    }  
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Enter a string: ankit Mehrotra
+Converted String in Lower Case: ankit mehrotra
 ```
 
 
