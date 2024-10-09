@@ -43,11 +43,11 @@ public class Exercise2
     }
 }
 
-'''Output'''
+''Output
 Find the length of a string:
 ---------------------------------
 Input the string: ankit mehrotra
-Length of the string is: 14
+Length of the string is: 14''
 ```
 
 #### 2. C# program to copy one string to another string.
