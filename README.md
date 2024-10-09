@@ -43,7 +43,7 @@ public class Exercise2
     }
 }
 
-'''Output
+'''Output'''
 Find the length of a string:
 ---------------------------------
 Input the string: ankit mehrotra
