@@ -7,10 +7,8 @@
 
 ### ============================ codeforwin ============================
 
-| Strings Questions |
+| Strings Questions  ([codeforwin](https://codeforwin.org/c-programming/string-programming-exercises-and-solutions-in-c) )|
 |----------|
-|          |  
-|  [codeforwin](https://codeforwin.org/c-programming/string-programming-exercises-and-solutions-in-c) |
 |          |  
 |C# program to find length of a string.|
 |C# program to copy one string to another string.|
