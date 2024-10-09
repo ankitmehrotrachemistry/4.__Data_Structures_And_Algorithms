@@ -14,6 +14,32 @@
 
 #### 1. C# program to find the sum of all the elements of the integer Array.
 ```csharp
+using System;
+
+class Program
+{
+    public static int SumArray(int[] arr)
+    {
+        int size = arr.Length;
+        int total = 0;
+
+        for (int index = 0; index < size; index++)
+        {
+            total += arr[index];
+        }
+        return total;
+    }
+
+    public static void Main(string[] args)
+    {
+        int[] arr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+
+        Console.WriteLine("Sum of values in array: " + SumArray(arr));
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Sum of values in array: 45
 ```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
