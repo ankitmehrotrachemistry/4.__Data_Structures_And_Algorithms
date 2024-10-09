@@ -5,7 +5,7 @@
 
 ## 2). Strings
 
-### ============================ codeforwin [38 Questions] ([codeforwin](https://codeforwin.org/c-programming/string-programming-exercises-and-solutions-in-c) )============================
+### ================ codeforwin [38 Questions] ([codeforwin](https://codeforwin.org/c-programming/string-programming-exercises-and-solutions-in-c) )================
 
 | Strings Questions  |
 |----------|
@@ -19,6 +19,34 @@
 
 #### 1. C# program to find length of a string.
 ```csharp
+using System;
+
+public class Exercise2
+{
+    public static void Main()
+    {
+        string str;
+        int len = 0;
+
+        Console.Write("\n\nFind the length of a string:\n");
+        Console.Write("---------------------------------\n");
+
+        Console.Write("Input the string: ");
+        str = Console.ReadLine();
+
+        foreach (char chr in str)
+        {
+            len += 1;
+        }
+
+        Console.Write("Length of the string is: {0}\n\n", len);
+    }
+}
+**Output : **
+Find the length of a string:
+---------------------------------
+Input the string: ankit mehrotra
+Length of the string is: 14
 ```
 
 #### 2. C# program to copy one string to another string.
