@@ -6,11 +6,11 @@
 |----------|
 |          |  
 |1. C# program to find the sum of all the elements of the integer Array.|
-|2. C# program to copy one string to another string.|
-|3. C# program to concatenate two strings.|
-|4. C# program to compare two strings.|
-|5. C# program to convert lowercase string to uppercase.|
-|6. C# program to convert uppercase string to lowercase.|
+|2. C# program to search an Array for some given value.|
+|3. |
+|4. |
+|5. |
+|6. |
 
 #### 1. C# program to find the sum of all the elements of the integer Array.
 ```csharp
@@ -41,6 +41,37 @@ class Program
 𝐎𝐮𝐭𝐩𝐮𝐭 :
 Sum of values in array: 45
 ```
+
+#### 2. C# program to search an Array for some given value.
+```csharp
+using System;
+
+class Program
+{
+    public static int SequentialSearch(int[] arr, int size, int value)
+    {
+        for (int i = 0; i < size; i++)
+        {
+            if (value == arr[i])
+                return i;
+        }
+        return -1;
+    }
+
+  public static void Main(string[] args)
+   {
+    int[] arr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+    
+    // Perform sequential search for the value 7
+    Console.WriteLine("Index of value 7 using Sequential Search: " + SequentialSearch(arr, arr.Length, 7));
+   }
+
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Index of value 7 using Sequential Search: 6
+```
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2). Strings
