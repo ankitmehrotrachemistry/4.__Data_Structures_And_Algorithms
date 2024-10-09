@@ -2,7 +2,21 @@
 
 ## 1). Arrays
 
+| Arrays Questions  |
+|----------|
+|          |  
+|1. C# program to find the sum of all the elements of the integer Array.|
+|2. C# program to copy one string to another string.|
+|3. C# program to concatenate two strings.|
+|4. C# program to compare two strings.|
+|5. C# program to convert lowercase string to uppercase.|
+|6. C# program to convert uppercase string to lowercase.|
 
+#### 1. C# program to find the sum of all the elements of the integer Array.
+```csharp
+```
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2). Strings
 
 | Strings Questions  |
