@@ -15,7 +15,7 @@
 |3. C# program to concatenate two strings.|
 |4. C# program to compare two strings.|
 |5. C# program to convert lowercase string to uppercase.|
-|6.C# program to convert uppercase string to lowercase.|
+|6. C# program to convert uppercase string to lowercase.|
 
 #### 1. C# program to find length of a string.
 ```csharp
