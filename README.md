@@ -5,8 +5,6 @@
 
 ## 2). Strings
 
-### ================ codeforwin [38 Questions] ([codeforwin](https://codeforwin.org/c-programming/string-programming-exercises-and-solutions-in-c) )================
-
 | Strings Questions  |
 |----------|
 |          |  
