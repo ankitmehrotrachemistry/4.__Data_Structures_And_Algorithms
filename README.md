@@ -238,7 +238,7 @@ Max sub-array sum: 10
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2). Strings
 
-| Strings Questions  |
+| Strings Questions - 1 |
 |----------|
 |1. C# program to find length of a string.|
 |2. C# program to copy one string to another string.|
@@ -441,7 +441,7 @@ Converted String in Lower Case: ankit mehrotra
 ```
 
 
-| Strings Questions  |
+| Strings Questions - 2 |
 |----------|
 |7. C# program to toggle case of each character of a string.|
 |8. C# program to find total number of alphabets, digits or special character in a string.|
@@ -477,7 +477,7 @@ Converted String in Lower Case: ankit mehrotra
 
 
 
-| Strings Questions  |
+| Strings Questions - 3 |
 |----------|
 |13. C# program to reverse order of words in a given string.|
 |14. C# program to find first occurrence of a character in a given string.|
@@ -511,7 +511,7 @@ Converted String in Lower Case: ankit mehrotra
 ```
 
 
-| Strings Questions  |
+| Strings Questions - 4 |
 |----------|
 |19. C# program to find lowest frequency character in a string.|
 |20. C# program to count frequency of each character in a string.|
@@ -545,7 +545,7 @@ Converted String in Lower Case: ankit mehrotra
 ```
 
 
-| Strings Questions  |
+| Strings Questions - 5 |
 |----------|
 |25. C# program to replace first occurrence of a character with another in a string.|
 |26. C# program to replace last occurrence of a character with another in a string.|
@@ -579,7 +579,7 @@ Converted String in Lower Case: ankit mehrotra
 ```
 
 
-| Strings Questions  |
+| Strings Questions - 6 |
 |----------|
 |31. C# program to count occurrences of a word in a given string.|
 |32. C# program to remove first occurrence of a word from string.|
@@ -614,7 +614,7 @@ Converted String in Lower Case: ankit mehrotra
 ```
 
 
-| Strings Questions  |
+| Strings Questions - 7 |
 |----------|
 |37. C# program to trim both leading and trailing white space characters from given string.|
 |38. C# program to remove all extra blank spaces from given string.|
