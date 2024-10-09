@@ -16,6 +16,8 @@
 |4. C# program to compare two strings.|
 |5. C# program to convert lowercase string to uppercase.|
 |6.C# program to convert uppercase string to lowercase.|
+
+| Strings Questions  |
 |----------|
 |          |  
 |7. C# program to toggle case of each character of a string.|
@@ -24,6 +26,8 @@
 |10. C# program to count total number of words in a string.|
 |11. C# program to find reverse of a string.|
 |12. C# program to check whether a string is palindrome or not.|
+
+| |
 |----------|
 |          |  
 |13. C# program to reverse order of words in a given string.|
@@ -32,6 +36,8 @@
 |16. C# program to search all occurrences of a character in given string.|
 |17. C# program to count occurrences of a character in given string.|
 |18. C# program to find highest frequency character in a string.|
+
+| Strings Questions  |
 |----------|
 |          |  
 |19. C# program to find lowest frequency character in a string.|
@@ -40,6 +46,8 @@
 |22. C# program to remove last occurrence of a character from string.|
 |23. C# program to remove all occurrences of a character from string.|
 |24. C# program to remove all repeated characters from a given string.|
+
+| Strings Questions  |
 |----------|
 |          |  
 |25. C# program to replace first occurrence of a character with another in a string.|
@@ -48,6 +56,8 @@
 |28. C# program to find first occurrence of a word in a given string.|
 |29. C# program to find last occurrence of a word in a given string.|
 |30. C# program to search all occurrences of a word in given string.|
+
+| Strings Questions  |
 |----------|
 |          |  
 |31. C# program to count occurrences of a word in a given string.|
@@ -56,6 +66,8 @@
 |34. C# program to remove all occurrence of a word in given string.|
 |35. C# program to trim leading white space characters from given string.|
 |36. C# program to trim trailing white space characters from given string.|
+
+| Strings Questions  |
 |----------|
 |          |  
 |37. C# program to trim both leading and trailing white space characters from given string.|
