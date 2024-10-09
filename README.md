@@ -7,9 +7,9 @@
 |          |  
 |1. C# program to find the sum of all the elements of the integer Array.|
 |2. C# program to search an Array for some given value.|
-|3. |
-|4. |
-|5. |
+|3. C# program to perform Binary search in a sorted array.|
+|4. C# program to rotate Array elements K number of times.|
+|5. C# program to find the largest sum contiguous subarray.|
 |6. |
 
 #### 1. C# program to find the sum of all the elements of the integer Array.
@@ -72,6 +72,172 @@ class Program
 Index of value 7 using Sequential Search: 6
 ```
 
+#### 3. C# program to perform Binary search in a sorted array.
+```csharp
+using System;
+
+class Program
+{
+  public static int BinarySearch(int[] arr, int size, int value)
+{
+    int low = 0;
+    int high = size - 1;
+
+    while (low <= high)
+    {
+        int mid = low + (high - low) / 2;
+
+        if (arr[mid] == value)
+        {
+            return mid;
+        }
+
+        else if (arr[mid] < value)
+        {
+            low = mid + 1;
+        }
+
+        else
+        {
+            high = mid - 1;
+        }
+    }
+    
+    return -1;
+ }
+
+  public static void Main(string[] args)
+   {
+    int[] arr = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+    
+    Console.WriteLine("Index of value 7 using Binary Search: " + BinarySearch(arr, arr.Length, 7));
+   }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Index of value 7 using Binary Search: 6
+```
+
+#### 4. C# program to rotate Array elements K number of times.
+```csharp
+using System;
+
+class Program
+{
+    public static void rotateArray(int[] a, int n, int k)
+    {
+        reverseArray(a, 0, k - 1);
+        reverseArray(a, k, n - 1);
+        reverseArray(a, 0, n - 1);
+    }
+
+    public static void reverseArray(int[] a, int start, int end)
+    {
+        for (int i = start, j = end; i < j; i++, j--)
+        {
+            int temp = a[i];
+            a[i] = a[j];
+            a[j] = temp;
+        }
+    }
+
+    // Adding the printArray method
+    public static void printArray(int[] a, int n)
+    {
+        for (int i = 0; i < n; i++)
+        {
+            Console.Write(a[i] + " ");
+        }
+        Console.WriteLine();
+    }
+
+    public static void Main(string[] args)
+    {
+        int[] arr = new int[] { 1, 2, 3, 4, 5, 6 };
+        rotateArray(arr, arr.Length, 2);
+        printArray(arr, arr.Length);
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+3 4 5 6 1 2 
+```
+
+#### 5. C# program to find the largest sum contiguous subarray.
+```csharp
+using System;
+
+class Program
+{
+    public static int MaxSubArraySum(int[] a, int size)
+    {
+        int maxSoFar = int.MinValue;
+        int maxEndingHere = 0;
+
+        for (int i = 0; i < size; i++)
+        {
+            maxEndingHere += a[i];
+
+            if (maxSoFar < maxEndingHere)
+            {
+                maxSoFar = maxEndingHere;
+            }
+            if (maxEndingHere < 0)
+            {
+                maxEndingHere = 0;
+            }
+        }
+        return maxSoFar;
+    }
+
+    public static void Main(string[] args)
+    {
+        int[] arr = new int[] { 1, -2, 3, 4, -4, 6, -4, 3, 2 };
+        Console.WriteLine("Max sub-array sum: " + MaxSubArraySum(arr, arr.Length));
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Max sub-array sum: 10
+```
+
+#### 6. C# program to find the largest sum contiguous subarray.
+```csharp
+using System;
+
+class Program
+{
+    public static int MaxSubArraySum(int[] a, int size)
+    {
+        int maxSoFar = int.MinValue;
+        int maxEndingHere = 0;
+
+        for (int i = 0; i < size; i++)
+        {
+            maxEndingHere += a[i];
+
+            if (maxSoFar < maxEndingHere)
+            {
+                maxSoFar = maxEndingHere;
+            }
+            if (maxEndingHere < 0)
+            {
+                maxEndingHere = 0;
+            }
+        }
+        return maxSoFar;
+    }
+
+    public static void Main(string[] args)
+    {
+        int[] arr = new int[] { 1, -2, 3, 4, -4, 6, -4, 3, 2 };
+        Console.WriteLine("Max sub-array sum: " + MaxSubArraySum(arr, arr.Length));
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Max sub-array sum: 10
+```
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 2). Strings
