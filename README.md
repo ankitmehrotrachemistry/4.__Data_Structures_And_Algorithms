@@ -5,14 +5,41 @@
 | Arrays Questions  |
 |----------|
 |          |  
-|1. C# program to find the sum of all the elements of the integer Array.|
-|2. C# program to search an Array for some given value.|
-|3. C# program to perform Binary search in a sorted array.|
-|4. C# program to rotate Array elements K number of times.|
-|5. C# program to find the largest sum contiguous subarray.|
-|6. |
+| 1. Write a C# program to read and print elements of an array – using recursion. |
+| 2. Write a C# program to print all negative elements in an array. |
+| 3. Write a C# program to find the sum of all array elements – using recursion. |
+| 4. Write a C# program to find the maximum and minimum element in an array – using recursion. |
+| 5. Write a C# program to find the second largest element in an array. |
+| 6. Write a C# program to count the total number of even and odd elements in an array. |
+| 7. Write a C# program to count the total number of negative elements in an array. |
+| 8. Write a C# program to copy all elements from one array to another array. |
+| 9. Write a C# program to insert an element in an array. |
+| 10. Write a C# program to delete an element from an array at a specified position. |
+| 11. Write a C# program to count the frequency of each element in an array. |
+| 12. Write a C# program to print all unique elements in an array. |
+| 13. Write a C# program to count the total number of duplicate elements in an array. |
+| 14. Write a C# program to delete all duplicate elements from an array. |
+| 15. Write a C# program to merge two arrays into a third array. |
+| 16. Write a C# program to find the reverse of an array. |
+| 17. Write a C# program to put even and odd elements of an array into two separate arrays. |
+| 18. Write a C# program to search for an element in an array. |
+| 19. Write a C# program to sort array elements in ascending or descending order. |
+| 20. Write a C# program to sort even and odd elements of an array separately. |
+| 21. Write a C# program to left rotate an array. |
+| 22. Write a C# program to right rotate an array. |
 
-#### 1. C# program to find the sum of all the elements of the integer Array.
+
+
+| Arrays Questions  |
+|----------|
+|          |  
+|41. C# program to find the sum of all the elements of the integer Array.|
+|42. C# program to search an Array for some given value.|
+|43. C# program to perform Binary search in a sorted array.|
+|44. C# program to rotate Array elements K number of times.|
+|45. C# program to find the largest sum contiguous subarray.|
+
+#### 41. C# program to find the sum of all the elements of the integer Array.
 ```csharp
 using System;
 
@@ -42,7 +69,7 @@ class Program
 Sum of values in array: 45
 ```
 
-#### 2. C# program to search an Array for some given value.
+#### 42. C# program to search an Array for some given value.
 ```csharp
 using System;
 
@@ -72,7 +99,7 @@ class Program
 Index of value 7 using Sequential Search: 6
 ```
 
-#### 3. C# program to perform Binary search in a sorted array.
+#### 43. C# program to perform Binary search in a sorted array.
 ```csharp
 using System;
 
@@ -118,7 +145,7 @@ class Program
 Index of value 7 using Binary Search: 6
 ```
 
-#### 4. C# program to rotate Array elements K number of times.
+#### 44. C# program to rotate Array elements K number of times.
 ```csharp
 using System;
 
@@ -163,45 +190,7 @@ class Program
 3 4 5 6 1 2 
 ```
 
-#### 5. C# program to find the largest sum contiguous subarray.
-```csharp
-using System;
-
-class Program
-{
-    public static int MaxSubArraySum(int[] a, int size)
-    {
-        int maxSoFar = int.MinValue;
-        int maxEndingHere = 0;
-
-        for (int i = 0; i < size; i++)
-        {
-            maxEndingHere += a[i];
-
-            if (maxSoFar < maxEndingHere)
-            {
-                maxSoFar = maxEndingHere;
-            }
-            if (maxEndingHere < 0)
-            {
-                maxEndingHere = 0;
-            }
-        }
-        return maxSoFar;
-    }
-
-    public static void Main(string[] args)
-    {
-        int[] arr = new int[] { 1, -2, 3, 4, -4, 6, -4, 3, 2 };
-        Console.WriteLine("Max sub-array sum: " + MaxSubArraySum(arr, arr.Length));
-    }
-}
-
-𝐎𝐮𝐭𝐩𝐮𝐭 :
-Max sub-array sum: 10
-```
-
-#### 6. C# program to find the largest sum contiguous subarray.
+#### 45. C# program to find the largest sum contiguous subarray.
 ```csharp
 using System;
 
