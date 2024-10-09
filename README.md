@@ -43,7 +43,7 @@ public class Exercise2
     }
 }
 
-𝐎𝐮𝐭𝐩𝐮𝐭
+𝐎𝐮𝐭𝐩𝐮𝐭 :
 Find the length of a string:
 ---------------------------------
 Input the string: ankit mehrotra
@@ -52,6 +52,45 @@ Length of the string is: 14
 
 #### 2. C# program to copy one string to another string.
 ```csharp
+using System;
+
+public class Exercise8  
+{  
+    public static void Main() 
+    {
+        string str1;
+        int i, len;
+
+        Console.Write("\n\nCopy one string into another string:\n");
+        Console.Write("-----------------------------------------\n"); 	
+        Console.Write("Input the string: ");
+        str1 = Console.ReadLine();
+
+        len = str1.Length;
+        string[] str2 = new string[len];
+
+        i = 0;
+        while (i < len)
+        {
+            string tmp = str1[i].ToString(); 
+            str2[i] = tmp; 
+            i++; 
+        }
+
+        Console.Write("\nThe First string is: {0}\n", str1);
+        Console.Write("The Second string is: {0}\n", string.Join("", str2)); 
+        Console.Write("Number of characters copied: {0}\n\n", i); 
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Copy one string into another string:
+-----------------------------------------
+Input the string: ankit
+
+The First string is: ankit
+The Second string is: ankit
+Number of characters copied: 5
 ```
 
 #### 3. C# program to concatenate two strings.
