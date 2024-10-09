@@ -2,9 +2,8 @@
 
 ## 1). Arrays
 
-| Arrays Questions  |
+| Arrays Questions - 1 |
 |----------|
-|          |  
 | 1. Write a C# program to read and print elements of an array – using recursion. |
 | 2. Write a C# program to print all negative elements in an array. |
 | 3. Write a C# program to find the sum of all array elements – using recursion. |
@@ -12,7 +11,7 @@
 | 5. Write a C# program to find the second largest element in an array. |
 | 6. Write a C# program to count the total number of even and odd elements in an array. |
 
-| Arrays Questions  |
+| Arrays Questions - 2 |
 |----------|
 | 7. Write a C# program to count the total number of negative elements in an array. |
 | 8. Write a C# program to copy all elements from one array to another array. |
@@ -21,7 +20,7 @@
 | 11. Write a C# program to count the frequency of each element in an array. |
 | 12. Write a C# program to print all unique elements in an array. |
 
-| Arrays Questions  |
+| Arrays Questions - 3 |
 |----------|
 | 13. Write a C# program to count the total number of duplicate elements in an array. |
 | 14. Write a C# program to delete all duplicate elements from an array. |
@@ -30,7 +29,7 @@
 | 17. Write a C# program to put even and odd elements of an array into two separate arrays. |
 | 18. Write a C# program to search for an element in an array. |
 
-| Arrays Questions  |
+| Arrays Questions - 4 |
 |----------|
 | 19. Write a C# program to sort array elements in ascending or descending order. |
 | 20. Write a C# program to sort even and odd elements of an array separately. |
@@ -39,9 +38,8 @@
 
 
 
-| Arrays Questions  |
+| Arrays Questions - 5 |
 |----------|
-|          |  
 |41. C# program to find the sum of all the elements of the integer Array.|
 |42. C# program to search an Array for some given value.|
 |43. C# program to perform Binary search in a sorted array.|
@@ -242,7 +240,6 @@ Max sub-array sum: 10
 
 | Strings Questions  |
 |----------|
-|          |  
 |1. C# program to find length of a string.|
 |2. C# program to copy one string to another string.|
 |3. C# program to concatenate two strings.|
@@ -444,7 +441,7 @@ Converted String in Lower Case: ankit mehrotra
 ```
 
 
-|  |
+| Strings Questions  |
 |----------|
 |7. C# program to toggle case of each character of a string.|
 |8. C# program to find total number of alphabets, digits or special character in a string.|
@@ -480,8 +477,8 @@ Converted String in Lower Case: ankit mehrotra
 
 
 
-| |
-|----------| 
+| Strings Questions  |
+|----------|
 |13. C# program to reverse order of words in a given string.|
 |14. C# program to find first occurrence of a character in a given string.|
 |15. C# program to find last occurrence of a character in a given string.|
@@ -514,7 +511,7 @@ Converted String in Lower Case: ankit mehrotra
 ```
 
 
-|   |
+| Strings Questions  |
 |----------|
 |19. C# program to find lowest frequency character in a string.|
 |20. C# program to count frequency of each character in a string.|
@@ -548,7 +545,7 @@ Converted String in Lower Case: ankit mehrotra
 ```
 
 
-|   |
+| Strings Questions  |
 |----------|
 |25. C# program to replace first occurrence of a character with another in a string.|
 |26. C# program to replace last occurrence of a character with another in a string.|
@@ -582,7 +579,7 @@ Converted String in Lower Case: ankit mehrotra
 ```
 
 
-|   |
+| Strings Questions  |
 |----------|
 |31. C# program to count occurrences of a word in a given string.|
 |32. C# program to remove first occurrence of a word from string.|
@@ -617,11 +614,10 @@ Converted String in Lower Case: ankit mehrotra
 ```
 
 
-|   |
+| Strings Questions  |
 |----------|
 |37. C# program to trim both leading and trailing white space characters from given string.|
 |38. C# program to remove all extra blank spaces from given string.|
-||
 
 #### 37. C# program to trim both leading and trailing white space characters from given string.
 ```csharp
