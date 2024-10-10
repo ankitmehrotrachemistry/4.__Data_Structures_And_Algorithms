@@ -7,7 +7,7 @@
 | 1. Write a C# program to read and print elements of an array. Also print it using Recursion. |
 | 2. Write a C# program to print all negative elements in an array. |
 | 3. Write a C# program to find the sum of all array elements – using recursion. |
-| 4. Write a C# program to find the maximum and minimum element in an array – using recursion. |
+| 4. Write a C# program to find the maximum and minimum element in an array. Also print it using recursion. |
 | 5. Write a C# program to find the second largest element in an array. |
 | 6. Write a C# program to count the total number of even and odd elements in an array. |
 
@@ -134,6 +134,7 @@ class Program
         }
     }
 }
+
 𝐎𝐮𝐭𝐩𝐮𝐭 :
 Enter size of the array: 5
 Enter elements in the array: 
@@ -145,6 +146,215 @@ Enter elements in the array:
 
 All negative elements in the array are: 
 -45	-78	-20	
+```
+
+#### 3. Write a C# program to find the sum of all array elements.
+
+**Simple Approach**
+```csharp
+using System;
+
+class Program
+{
+    const int MAX_SIZE = 100;
+
+    static void Main(string[] args)
+    {
+        int[] arr = new int[MAX_SIZE];
+        int n, sum = 0;
+
+        Console.Write("Enter size of the array: ");
+        n = int.Parse(Console.ReadLine());
+
+        Console.WriteLine($"Enter {n} elements in the array: ");
+        for (int i = 0; i < n; i++)
+        {
+            arr[i] = int.Parse(Console.ReadLine());
+        }
+
+        for (int i = 0; i < n; i++)
+        {
+            sum += arr[i];
+        }
+
+        Console.WriteLine($"Sum of all elements of array = {sum}");
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Enter size of the array: 4
+Enter 4 elements in the array: 
+45
+-45
+86
+0
+Sum of all elements of array = 86
+```
+
+**Using Recursion**
+```csharp
+using System;
+
+class Program
+{
+    const int MAX_SIZE = 100;
+
+    static void Main(string[] args)
+    {
+        int[] arr = new int[MAX_SIZE];
+        int N, sumOfArray;
+
+        Console.Write("Enter size of the array: ");
+        N = int.Parse(Console.ReadLine());
+        Console.WriteLine("Enter elements in the array: ");
+        for (int i = 0; i < N; i++)
+        {
+            arr[i] = int.Parse(Console.ReadLine());
+        }
+
+        sumOfArray = Sum(arr, 0, N);
+        Console.WriteLine("Sum of array elements: " + sumOfArray);
+    }
+
+    static int Sum(int[] arr, int start, int len)
+    {
+        if (start >= len)
+            return 0;
+
+        return arr[start] + Sum(arr, start + 1, len);
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Enter size of the array: 4
+Enter elements in the array: 
+-90
+64
+90
+0
+Sum of array elements: 64
+```
+
+#### 4. Write a C# program to find the maximum and minimum element in an array.
+
+**Simple Approach**
+```csharp
+using System;
+
+class Program
+{
+    const int MAX_SIZE = 100;
+
+    static void Main(string[] args)
+    {
+        int[] arr = new int[MAX_SIZE];
+        int size, max, min;
+
+        Console.Write("Enter size of the array: ");
+        size = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Enter elements in the array: ");
+        for (int i = 0; i < size; i++)
+        {
+            arr[i] = int.Parse(Console.ReadLine());
+        }
+
+        max = arr[0];
+        min = arr[0];
+
+        for (int i = 1; i < size; i++)
+        {
+            if (arr[i] > max)
+            {
+                max = arr[i];
+            }
+            if (arr[i] < min)
+            {
+                min = arr[i];
+            }
+        }
+
+        Console.WriteLine("Maximum element = " + max);
+        Console.WriteLine("Minimum element = " + min);
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Enter size of the array: 5
+Enter elements in the array: 
+45
+-80
+-2
+600
+0
+Maximum element = 600
+Minimum element = -80
+```
+
+**Using Recursion**
+```csharp
+using System;
+
+class Program
+{
+    const int MAX_SIZE = 100;
+
+    static void Main(string[] args)
+    {
+        int[] array = new int[MAX_SIZE];
+        int N, max, min;
+
+        Console.Write("Enter size of the array: ");
+        N = int.Parse(Console.ReadLine());
+        Console.WriteLine($"Enter {N} elements in the array: ");
+        for (int i = 0; i < N; i++)
+        {
+            array[i] = int.Parse(Console.ReadLine());
+        }
+
+        max = Maximum(array, 0, N);
+        min = Minimum(array, 0, N);
+
+        Console.WriteLine($"Minimum element in array = {min}");
+        Console.WriteLine($"Maximum element in array = {max}");
+    }
+
+    static int Maximum(int[] array, int index, int len)
+    {
+        if (index >= len - 2)
+        {
+            return array[index] > array[index + 1] ? array[index] : array[index + 1];
+        }
+
+        int max = Maximum(array, index + 1, len);
+
+        return array[index] > max ? array[index] : max;
+    }
+
+    static int Minimum(int[] array, int index, int len)
+    {
+        if (index >= len - 2)
+        {
+            return array[index] < array[index + 1] ? array[index] : array[index + 1];
+        }
+
+        int min = Minimum(array, index + 1, len);
+
+        return array[index] < min ? array[index] : min;
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Enter size of the array: 5
+Enter 5 elements in the array: 
+90
+-8
+100
+0
+-72
+Minimum element in array = -72
+Maximum element in array = 100
+
 ```
 
 | Arrays Questions - 2 |
