@@ -778,6 +778,38 @@ Number of characters copied: 5
 
 #### 3. C# program to concatenate two strings.
 ```csharp
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string str1 = "Hello";
+        string str2 = "World";
+
+        char[] result = new char[str1.Length + str2.Length];
+
+        // Copy characters from str1
+        for (int i = 0; i < str1.Length; i++)
+        {
+            result[i] = str1[i];
+        }
+
+        // Copy characters from str2
+        for (int i = 0; i < str2.Length; i++)
+        {
+            result[str1.Length + i] = str2[i];
+        }
+
+        // Convert char array to string
+        string concatenatedString = new string(result);
+
+        Console.WriteLine(concatenatedString);
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+HelloWorld
 ```
 
 #### 4. C# program to compare two strings.
