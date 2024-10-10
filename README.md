@@ -4,12 +4,148 @@
 
 | Arrays Questions - 1 |
 |----------|
-| 1. Write a C# program to read and print elements of an array – using recursion. |
+| 1. Write a C# program to read and print elements of an array. Also print it using Recursion. |
 | 2. Write a C# program to print all negative elements in an array. |
 | 3. Write a C# program to find the sum of all array elements – using recursion. |
 | 4. Write a C# program to find the maximum and minimum element in an array – using recursion. |
 | 5. Write a C# program to find the second largest element in an array. |
 | 6. Write a C# program to count the total number of even and odd elements in an array. |
+
+#### 1. Write a C# program to read and print elements of an array
+
+**Simple Approach**
+```csharp
+using System;
+
+class Program
+{
+    const int MAX_SIZE = 1000;
+
+    static void Main(string[] args)
+    {
+        int[] arr = new int[MAX_SIZE];
+        int N;
+
+        Console.Write("Enter size of array: ");
+        N = int.Parse(Console.ReadLine());
+
+        Console.Write($"Enter {N} elements in the array: ");
+        for (int i = 0; i < N; i++)
+        {
+            arr[i] = int.Parse(Console.ReadLine());
+        }
+
+        Console.Write("\nElements in array are: ");
+        for (int i = 0; i < N; i++)
+        {
+            Console.Write(arr[i] + ", ");
+        }
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Enter size of array: 5
+Enter 5 elements in the array: 68
+90
+4
+36
+12
+
+Elements in array are: 68, 90, 4, 36, 12,
+```
+
+**Using Recursion**
+```csharp
+using System;
+
+class Program
+{
+    const int MAX_SIZE = 100;
+
+    static void Main(string[] args)
+    {
+        int[] arr = new int[MAX_SIZE];
+        int N;
+
+        Console.Write("Enter size of the array: ");
+        N = int.Parse(Console.ReadLine());
+        Console.WriteLine("Enter elements in the array: ");
+        for (int i = 0; i < N; i++)
+        {
+            arr[i] = int.Parse(Console.ReadLine());
+        }
+
+        Console.WriteLine("Elements in the array: ");
+        printArray(arr, 0, N);
+    }
+
+    static void printArray(int[] arr, int start, int len)
+    {
+        if (start >= len)
+            return;
+
+        Console.Write(arr[start] + ", ");
+        printArray(arr, start + 1, len);
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Enter size of the array: 5
+Enter elements in the array: 
+68
+54
+2
+18
+94
+Elements in the array: 
+68, 54, 2, 18, 94, 
+```
+
+#### 2. Write a C# program to print all negative elements in an array.
+
+```csharp
+using System;
+
+class Program
+{
+    const int MAX_SIZE = 100;
+
+    static void Main(string[] args)
+    {
+        int[] arr = new int[MAX_SIZE];
+        int N;
+
+        Console.Write("Enter size of the array: ");
+        N = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Enter elements in the array: ");
+        for (int i = 0; i < N; i++)
+        {
+            arr[i] = int.Parse(Console.ReadLine());
+        }
+
+        Console.WriteLine("\nAll negative elements in the array are: ");
+        for (int i = 0; i < N; i++)
+        {
+            if (arr[i] < 0)
+            {
+                Console.Write(arr[i] + "\t");
+            }
+        }
+    }
+}
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Enter size of the array: 5
+Enter elements in the array: 
+-45
+80
+0
+-78
+-20
+
+All negative elements in the array are: 
+-45	-78	-20	
+```
 
 | Arrays Questions - 2 |
 |----------|
