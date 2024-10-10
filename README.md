@@ -357,6 +357,113 @@ Maximum element in array = 100
 
 ```
 
+#### 5. Write a C# program to find the second largest element in an array.
+```csharp
+using System;
+
+class Program
+{
+    const int MAX_SIZE = 1000;
+
+    static void Main(string[] args)
+    {
+        int[] arr = new int[MAX_SIZE];
+        int size, max1, max2;
+
+        Console.Write("Enter size of the array (1-1000): ");
+        size = int.Parse(Console.ReadLine());
+
+        Console.WriteLine("Enter elements in the array: ");
+        for (int i = 0; i < size; i++)
+        {
+            arr[i] = int.Parse(Console.ReadLine());
+        }
+
+        max1 = max2 = int.MinValue;
+
+        for (int i = 0; i < size; i++)
+        {
+            if (arr[i] > max1)
+            {
+                max2 = max1;
+                max1 = arr[i];
+            }
+            else if (arr[i] > max2 && arr[i] < max1)
+            {
+                max2 = arr[i];
+            }
+        }
+
+        Console.WriteLine($"First largest = {max1}");
+        Console.WriteLine($"Second largest = {max2}");
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Enter size of the array (1-1000): 5
+Enter elements in the array: 
+21
+100
+-8
+2000
+50
+First largest = 2000
+Second largest = 100
+```
+
+#### 6. Write a C# program to count the total number of even and odd elements in an array.
+```csharp
+using System;
+
+class Program
+{
+    const int MAX_SIZE = 100;
+
+    static void Main(string[] args)
+    {
+        int[] arr = new int[MAX_SIZE];
+        int size, even = 0, odd = 0;
+
+        Console.Write("Enter size of the array: ");
+        size = int.Parse(Console.ReadLine());
+
+        Console.WriteLine($"Enter {size} elements in the array: ");
+        for (int i = 0; i < size; i++)
+        {
+            arr[i] = int.Parse(Console.ReadLine());
+        }
+
+        for (int i = 0; i < size; i++)
+        {
+            if (arr[i] % 2 == 0)
+            {
+                even++;
+            }
+            else
+            {
+                odd++;
+            }
+        }
+
+        Console.WriteLine($"Total even elements: {even}");
+        Console.WriteLine($"Total odd elements: {odd}");
+    }
+}
+
+𝐎𝐮𝐭𝐩𝐮𝐭 :
+Enter size of the array: 6
+Enter 6 elements in the array: 
+90
+83
+98
+5
+-90
+57
+Total even elements: 3
+Total odd elements: 3
+```
+
+
 | Arrays Questions - 2 |
 |----------|
 | 7. Write a C# program to count the total number of negative elements in an array. |
