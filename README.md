@@ -306,38 +306,34 @@ class Program
 
         Console.Write("Enter size of the array: ");
         N = int.Parse(Console.ReadLine());
+
         Console.WriteLine($"Enter {N} elements in the array: ");
         for (int i = 0; i < N; i++)
         {
             array[i] = int.Parse(Console.ReadLine());
         }
-
         max = Maximum(array, 0, N);
         min = Minimum(array, 0, N);
 
         Console.WriteLine($"Minimum element in array = {min}");
         Console.WriteLine($"Maximum element in array = {max}");
     }
-
     static int Maximum(int[] array, int index, int len)
     {
         if (index >= len - 2)
         {
             return array[index] > array[index + 1] ? array[index] : array[index + 1];
         }
-
         int max = Maximum(array, index + 1, len);
 
         return array[index] > max ? array[index] : max;
     }
-
     static int Minimum(int[] array, int index, int len)
     {
         if (index >= len - 2)
         {
             return array[index] < array[index + 1] ? array[index] : array[index + 1];
         }
-
         int min = Minimum(array, index + 1, len);
 
         return array[index] < min ? array[index] : min;
