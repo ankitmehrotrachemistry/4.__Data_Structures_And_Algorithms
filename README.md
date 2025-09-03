@@ -2,7 +2,7 @@
 
 ## 1). Arrays
 
-| Arrays Questions - 1 |
+| 🔹 Basic Traversal & Counting |
 |----------|
 | 1. Write a C# program to read and print elements of an array. Also print it using Recursion. |
 | 2. Write a C# program to print all negative elements in an array. |
@@ -10,6 +10,10 @@
 | 4. Write a C# program to find the maximum and minimum element in an array. Also print it using recursion. |
 | 5. Write a C# program to find the second largest element in an array. |
 | 6. Write a C# program to count the total number of even and odd elements in an array. |
+| Sum of all the elements of the integer Array |
+| Maximum Minimum Array |
+| Count occurrences of each element in an array |
+| Print frequency of all elements in the array also print the missing elements frequency as 0 |
 
 #### 1. Write a C# program to read and print elements of an array
 
